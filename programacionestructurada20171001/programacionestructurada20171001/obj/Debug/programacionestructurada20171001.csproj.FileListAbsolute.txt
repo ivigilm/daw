@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\programacionestructurada20171001\programacionestructurada20171001\bin\Debug\programacionestructurada20171001.exe.config
+C:\Users\Isa\source\repos\programacionestructurada20171001\programacionestructurada20171001\bin\Debug\programacionestructurada20171001.exe
+C:\Users\Isa\source\repos\programacionestructurada20171001\programacionestructurada20171001\bin\Debug\programacionestructurada20171001.pdb
+C:\Users\Isa\source\repos\programacionestructurada20171001\programacionestructurada20171001\obj\Debug\programacionestructurada20171001.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\programacionestructurada20171001\programacionestructurada20171001\obj\Debug\programacionestructurada20171001.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\programacionestructurada20171001\programacionestructurada20171001\obj\Debug\programacionestructurada20171001.exe
+C:\Users\Isa\source\repos\programacionestructurada20171001\programacionestructurada20171001\obj\Debug\programacionestructurada20171001.pdb
