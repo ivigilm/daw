@@ -21,7 +21,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Resta dos números enteros dados (el mayor menos el menor)  e imprime el resultado por pantalla.
         /// </summary>
-        static void RestaAbsolutaDeDosNumerosEnteros()
+        static void RestaAbsolutaDeDosNumerosEnteros() // 1 
         {
             // Declaramos las variables
 
@@ -52,7 +52,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Comprueba si un año dado es bisiesto e imprime la información por pantalla.
         /// </summary>
-        static void EsBisiestoONo()
+        static void EsBisiestoONo() // 2 
         {
             // Declaramos las variables
 
@@ -78,7 +78,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Convierte una cantidad de euros a pesetas o viceversa.
         /// </summary>
-        static void ConversorEurosPesetas()
+        static void ConversorEurosPesetas() // 3 
         {
             // Declaramos las variables
             double numero, conversion;
@@ -108,7 +108,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Dados tres números enteros, comprueba si están ordenados de menor a mayor.
         /// </summary>
-        static void TresEnterosOrdenados()
+        static void TresEnterosOrdenados() // 4 
         {
             // Definimos las variables
 
@@ -140,7 +140,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Comprueba si tres números enteros dados son consecutivos.
         /// </summary>
-        static void TresEnterosConsecutivos()
+        static void TresEnterosConsecutivos() // 5 
         {
             // Declaramos las variables
 
@@ -173,7 +173,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Comprueba cuántas cifras tiene un número entero de entre una y cinco cifras.
         /// </summary>
-        static void CuantasCifrasTieneElEntero15()
+        static void CuantasCifrasTieneElEntero15() // 6 
         {
             // Declaramos la variable
 
@@ -220,7 +220,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Resuelve una ecuación de segundo grado (a*x^2 + b*x + c = 0).
         /// </summary>
-        static void EcuacionSegundoGrado()
+        static void EcuacionSegundoGrado() // 7 
         {
             // La fórmula para hallar las dos soluciones de una ecuación de segundo grado es:
             // x = ( -b + Sqrt( b^2 - 4*a*c ) ) / (2*a)
@@ -268,7 +268,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Ordena tres números enteros de mayor a menor.
         /// </summary>
-        static void OrdenaTresEnteros()
+        static void OrdenaTresEnteros() // 8 
         {
             // Declaramos las variables
 
@@ -338,7 +338,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Imprime por pantalla los números enteros del 10 al 20.
         /// </summary>
-        static void Escribe10al20()
+        static void Escribe10al20() // 9 
         {
             // Declaramos la variable.
 
@@ -358,7 +358,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Imprime por pantalla los números enteros impares entre el 1 y el 10.
         /// </summary>
-        static void EscribeImpares1al10()
+        static void EscribeImpares1al10() // 10 
         {
             // Declaramos la variable.
 
@@ -383,7 +383,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Imprime por pantalla los primeros diez números pares.
         /// </summary>
-        static void EscribeDiezPrimerosPares()
+        static void EscribeDiezPrimerosPares() // 11 
         {
             // Declaramos las variables
 
@@ -409,7 +409,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Imprime por pantalla los números pares/impares del 1 al 10 (a petición del usuario).
         /// </summary>
-        static void ParesOImpares1al10()
+        static void ParesOImpares1al10() // 12 
         {
             // Declaramos e inicializamos las variables
 
@@ -451,7 +451,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Imprime por pantalla la tabla de multiplicar del número deseado.
         /// </summary>
-        static void TablaDeMultiplicar()
+        static void TablaDeMultiplicar() // 13 
         {
             // Declaramos e inicializamos las variables
 
@@ -478,7 +478,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Imprime por pantalla los números enteros comprendidos en un intervalo. El usuario debe dar primero el número menor.
         /// </summary>
-        static void EscribeNumerosIntervalo()
+        static void EscribeNumerosIntervalo() // 14 
         {
             // Declaramos e inicializamos las variables
 
@@ -512,7 +512,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Imprime por pantalla los números enteros comprendidos en un intervalo.
         /// </summary>
-        static void EscribeNumerosIntervaloPro()
+        static void EscribeNumerosIntervaloPro() // 15 
         {
             // Declaramos e inicializamos las variables
 
@@ -548,7 +548,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Imprime por pantalla los números impares comprendidos en un intervalo.
         /// </summary>
-        static void EscribeImparesIntervalo()
+        static void EscribeImparesIntervalo() // 16 
         {
             // Declaramos e inicializamos las variables
 
@@ -609,7 +609,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Calcula la suma de los números pares entre 1 y 1000.
         /// </summary>
-        static void SumaPares1a1000()
+        static void SumaPares1a1000() // 17 
         {
             // Declaramos e inicializamos variables
 
@@ -634,7 +634,7 @@ namespace programacionestructurada20171001
         /// Calcula el valor medio de una serie de valores enteros positivos introducidos por teclado.
         /// Para terminar de introducir valores el usuario debe escribir un número negativo.
         /// </summary>
-        static void Media()
+        static void Media() // 18 
         {
             // Declaramos e inicializamos las variables.
 
@@ -674,7 +674,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Programa para profesor con 30 alumnos. Introduce las notas de una en una y le diremos cuántos aprobados y suspensos tiene.
         /// </summary>
-        static void NumerodeAprobadosYSuspensos()
+        static void NumerodeAprobadosYSuspensos() // 19 
         {
             // Declaramos e inicializamos variables
 
@@ -703,7 +703,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Calcula el máximo de una serie de 10 números introducidos por teclado.
         /// </summary>
-        static void Maximo10Numeros()
+        static void Maximo10Numeros() // 20 
         {
             // Declaramos e inicializamos variables
 
@@ -736,7 +736,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Halla el máximo, mínimo y la media de una serie de diez números enteros introducidos por teclado.
         /// </summary>
-        static void MaximoMinimoMedia10Numeros()
+        static void MaximoMinimoMedia10Numeros() // 21
         {
             // Declaramos e inicializamos variables
 
@@ -779,7 +779,7 @@ namespace programacionestructurada20171001
         /// <summary>
         /// Calcula el factorial de una serie de números enteros.
         /// </summary>
-        static void Factorial()
+        static void Factorial() // 22 
         {
             // Declaramos e inicializamos variables
 
@@ -802,6 +802,628 @@ namespace programacionestructurada20171001
 
             Console.WriteLine("El factorial de " + n + " es " + factorial + ".");
         }
+        
+        // Ejercicios de bucles (for)
+
+        /// <summary>
+        /// Imprime por pantalla los números enteros del 10 al 20.
+        /// </summary>
+        static void Escribe10al20For() // 23 
+        {
+            int i;
+            i = 10;
+
+            for (i = 10; i <= 20; i = i + 1)
+            {
+                Console.WriteLine(i);
+            }
+        }
+
+        /// <summary>
+        /// Imprime por pantalla los números enteros impares entre el 1 y el 10.
+        /// </summary>
+        static void EscribeImpares1al10For() // 24 
+        {
+            int i;
+
+            i = 1;
+
+            for (i = 1; i <= 10; i = i + 1)
+            {
+                if (i % 2 != 0)
+                {
+                    Console.WriteLine(i);
+                }
+
+            }
+        }
+
+        /// <summary>
+        /// Imprime por pantalla los primeros diez números pares.
+        /// </summary>
+        static void EscribeDiezPrimerosParesFor() // 25 
+        {
+            int i, j;
+
+            i = 1;
+            j = 0;
+
+            for (i = 1; j < 10; i = i + 1)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
+
+                    j = j + 1;
+                }
+
+            }
+        }
+
+        /// <summary>
+        /// Imprime por pantalla los números pares/impares del 1 al 10 (a petición del usuario).
+        /// </summary>
+        static void ParesOImpares1al10For() // 26 
+        {
+            int i;
+            string peticion;
+
+            i = 1;
+
+            Console.WriteLine("¿Quieres pares o impares? (par/impar)");
+            peticion = Console.ReadLine();
+
+            for (i = 1; i <= 10; i = i + 1)
+            {
+                if (peticion == "par")
+                {
+                    if (i % 2 == 0)
+                        Console.WriteLine(i);
+                }
+                else // pide impar
+                {
+                    if (i % 2 != 0)
+                        Console.WriteLine(i);
+                }
+            }
+        }
+
+        /// <summary>
+        /// Imprime por pantalla la tabla de multiplicar del número deseado.
+        /// </summary>
+        static void TablaDeMultiplicarFor() // 27 
+        {
+            int i, numero;
+
+            i = 1;
+
+            Console.WriteLine("Introduce un número entero.");
+            numero = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("La tabla de multiplicar de " + numero + " es la siguiente:");
+
+            for (i = 1; i <= 10; i = i + 1)
+            {
+                Console.WriteLine(numero + " x " + i + " = " + numero * i);
+            }
+        }
+
+        /// <summary>
+        /// Imprime por pantalla la serie de números comprendidos entre dos dados (del primero al segundo).
+        /// </summary>
+        /// <param name="n1">Primer número introducido por parámetro.</param>
+        /// <param name="n2">Segundo número introducido por parámetro.</param>
+        static void EscribeNumerosIntervaloFor() // 28 
+        {            
+            int i, num1, num2;
+
+            Console.WriteLine("Dame dos números.");
+            num1 = int.Parse(Console.ReadLine());
+            num2 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("El intervalo de números enteros entre " + num1 + " y " + num2 + " es:");
+
+            if (num1 >= num2)
+            {
+                for (i = num1; i >= num2; i--)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+            else // num2 > num1
+            {
+                for (i = num1; i <= num2; i++)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+        }
+
+        /// <summary>
+        /// Escribir los impares entre dos números introducidos por teclado, del menor al mayor.
+        /// </summary>
+        /// <param name="num1">Primer número introducido por parámetro.</param>
+        /// <param name="num2">Segundo número introducido por parámetro.</param>
+        static void EscribeImparesIntervaloFor() // 29 
+        {            
+            int i, max, min, num1, num2;
+
+            Console.WriteLine("Dame dos números.");
+            num1 = int.Parse(Console.ReadLine());
+            num2 = int.Parse(Console.ReadLine());
+
+            if (num1 <= num2) // la variable  será igual al número menor de entre num1 y num2
+            {
+                min = num1;
+                max = num2;
+            }
+            else
+            {
+                min = num2;
+                max = num1;
+            }
+            //min = Math.Min(num1, num2);
+
+            for (i = min; i <= max; i++)
+            {
+                if (i % 2 != 0)
+                {
+                    Console.WriteLine(i);
+                }
+
+            }
+        }
+
+        /// <summary>
+        /// Calcula la suma de todos los números pares entre 1 y 1000.
+        /// </summary>
+        static void SumaPares1a1000For() // 30 
+        {
+            int i, suma;
+
+            suma = 0;
+
+            for (i = 1; i <= 1000; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    suma = suma + i;
+                }
+            }
+
+            Console.WriteLine("La suma de los números pares entre 1 y 1000 es " + suma + ".");
+
+        }
+
+        /// <summary>
+        /// El  usuario  de  este  programa  será  un  profesor,  que  introducirá  las  notas  de  sus  30 
+        ///  alumnos de  una en  una. El algoritmo  debe decirle  cuántos suspensos  y cuántos aprobados hay.
+        /// </summary>
+        static void NumerodeAprobadosYSuspensosFor() // 31 
+        {
+            double nota, i, aprobados;
+
+            aprobados = 0;
+
+            for (i = 0; i < 30; i++)
+            {
+                Console.WriteLine("Introduce una nota.");
+                nota = int.Parse(Console.ReadLine());
+
+                if (nota >= 5)
+                {
+                    aprobados = aprobados + 1;
+                }
+            }
+
+            Console.WriteLine("Han aprobado " + aprobados + " personas.");
+            Console.WriteLine("Han suspendido " + (30 - aprobados) + " personas. ¡Hazles trabajar más!");
+
+        }
+
+        /// <summary>
+        /// Calcula el valor máximo de una serie de 10 números introducidos por teclado.
+        /// </summary>
+        static void Maximo10NumerosFor() // 32 
+        {           
+            int n, i, max;
+
+            Console.WriteLine("Dime un número");
+            max = int.Parse(Console.ReadLine());
+
+            for (i = 0; i < 9; i++)
+            {
+                Console.WriteLine("Dime un número.");
+                n = int.Parse(Console.ReadLine());
+
+                if (n > max)
+                {
+                    max = n;
+                }
+            }
+
+            Console.WriteLine("El valor máximo de la serie es " + max + ".");
+        }
+
+        /// <summary>
+        /// Calcula el valor máximo, mínimo y la media de una serie de 10 números introducidos por teclado.
+        /// </summary>
+        static void MaximoMinimoMedia10NumerosFor() // 33 
+        {
+            int n, m, i, max, min, suma;
+            double media;
+
+            Console.WriteLine("Dime un número.");
+            m = int.Parse(Console.ReadLine());
+            max = m;
+            min = m;
+            suma = m;
+
+            for (i = 0; i < 9; i++)
+            {
+                Console.WriteLine("Dime otro número.");
+                n = int.Parse(Console.ReadLine());
+
+                suma = (suma + n);
+
+                if (n >= max)
+                {
+                    max = n;
+                }
+                else
+                {
+                    min = n;
+                }
+
+            }
+
+            media = (suma / (i + 1));
+
+            Console.WriteLine("El número máximo de tu serie es " + max + ".");
+            Console.WriteLine("El número mínimo de tu serie es " + min + ".");
+            Console.WriteLine("La media de tu serie es " + media + ".");
+
+        }
+
+        /// <summary>
+        /// Halla el factorial de un número dado.
+        /// </summary>
+        static void FactorialFor() // 34 
+        {
+            int n, i, factorial;
+
+            Console.WriteLine("Dime un número.");
+            n = int.Parse(Console.ReadLine());
+
+            factorial = n;
+
+            for (i = n - 1; i > 0; i--)
+            {
+                factorial = factorial * i;
+            }
+
+            Console.WriteLine("El factorial de tu número es " + factorial + ".");
+        }
+
+        // Más ejercicios de bucles
+
+        /// <summary>
+        /// Dada una nota, escribe suspenso (0-5), suficiente (5-6), bien (6-7),
+        /// notable (7-9) o sobresaliente (9-10). Si la nota no es válida, el programa nos vuelve a
+        /// pedir un valor hasta que introduzcamos una nota correcta.
+        /// </summary>
+        static void EscribeNota() // 35 
+        {         
+            double nota;
+
+            Console.WriteLine("Dame una nota.");
+            nota = double.Parse(Console.ReadLine());
+
+
+            while (nota > 10 || nota < 0)
+            {
+                Console.WriteLine("No te equivoques al introducir la nota, por favor: debe de ser un valor entre 0 y 10. Dame una nota válida.");
+                nota = double.Parse(Console.ReadLine());
+            }
+
+            if (nota >= 5) // aprobado
+            {
+                if (nota < 6)
+                {
+                    Console.WriteLine("¡Tu alumno favorito tiene un Suficiente!");
+                }
+                else // nota >= 6
+                {
+                    if (nota < 7)
+                    {
+                        Console.WriteLine("¡Tu alumno favorito tiene un Bien!");
+                    }
+                    else // nota >= 7
+                    {
+                        if (nota < 9)
+                        {
+                            Console.WriteLine("¡Tu alumno favorito tiene un Notable!");
+                        }
+                        else // nota >= 9
+                        {
+                            Console.WriteLine("¡Tu alumno favorito tiene un Sobresaliente!");
+                        }
+                    }
+                }
+            }
+            else // suspenso
+            {
+                Console.WriteLine("¡Tu alumno favorito está suspenso!");
+            }
+
+        }
+
+        /// <summary>
+        /// Escribe los 10 primeros números que no son múltiplos ni de 2 ni de 3.
+        /// </summary>
+        static void NoMultiplos2ni3() // 36 
+        {
+            int n, i;
+            i = 0;
+            n = 1;
+
+            while (i < 10)
+            {
+
+                if ((n % 2 != 0) && (n % 3 != 0))
+                {
+                    Console.WriteLine(n);
+
+                    i = i + 1;
+                }
+
+                n = n + 1;
+            }
+        }
+
+        /// <summary>
+        /// Escribe los múltiplos de 11, 17 o 23 (a elección) entre 1 y 100.
+        /// </summary>
+        static void Multiplos111723() // 37 
+        {
+            int i;
+            string opcion;
+
+            Console.WriteLine("¿Qué quieres: múltiplos de 11, 17 o 23?");
+            opcion = Console.ReadLine();
+
+            if (opcion == "11") // Múltiplos de 11
+            {
+                for (i = 1; i <= 100; i++)
+                {
+                    if (i % 11 == 0)
+                    {
+                        Console.WriteLine(i);
+                    }
+                }
+
+                /* Otra forma de hacerlo:
+                 * 
+                for (n = 1; n * 11 <= 100; n++)
+                {
+                    Console.WriteLine(n * 11);
+                }
+                */
+            }
+            else
+            {
+                if (opcion == "17") // Múltiplos de 17
+                {
+                    for (i = 1; i <= 100; i++)
+                    {
+                        if (i % 17 == 0)
+                        {
+                            Console.WriteLine(i);
+                        }
+                    }
+
+                }
+                else // Múltiplos de 23
+                {
+                    for (i = 1; i <= 100; i++)
+                    {
+                        if (i % 23 == 0)
+                        {
+                            Console.WriteLine(i);
+                        }
+                    }
+
+                }
+            }
+        }
+
+        /// <summary>
+        /// Calcula el máximo común divisor de dos números introducidos por teclado.
+        /// </summary>
+        static void MaximoComunDivisor() // 38 
+        {
+            int num1, num2, menor, i, mcd;
+            mcd = -1;
+
+            Console.WriteLine("Dime dos números.");
+            num1 = int.Parse(Console.ReadLine());
+            num2 = int.Parse(Console.ReadLine());
+
+            if (num1 >= num2) // Calculo cuál es el menor de los dos números
+            {
+                menor = num2;
+            }
+            else
+            {
+                menor = num1;
+            }
+                        
+            for (i = menor; (num1 % i != 0) || (num2 % i != 0); i--)
+            {
+                if((num1 % i != 0) || (num2 % i != 0))
+                {
+                    mcd = i;
+                }
+            }
+            
+            Console.WriteLine("El MCD es " + mcd + ".");
+        }
+
+        /// <summary>
+        /// Calcula el mínimo común múltiplo de dos números.
+        /// </summary>
+        static void MinimoComunMultiplo() // 39 
+        {
+            int num1, num2, mayor, i;
+
+            Console.WriteLine("Dame dos números.");
+            num1 = int.Parse(Console.ReadLine());
+            num2 = int.Parse(Console.ReadLine());
+            
+            if (num1 >= num2) // Hallamos el mayor de los dos
+            {
+                mayor = num1;
+            }
+            else
+            {
+                mayor = num2;
+            }
+
+            i = mayor;
+
+            // Si llega al MCM sale un mensaje diciendo cuál es.
+
+            while ((i % num1 != 0) || (i % num2 != 0))
+            {
+                i = i + 1;
+            }
+
+            Console.WriteLine("El MCM es " + i + ".");
+
+            /* Otra forma de hacerlo:
+             * 
+             for(i = mayor; i <= num1*num2; i++)
+                {
+                    if( (i % num1 == 0) && (i % num2 == 0))
+                    {
+                        Console.WriteLine("MCM es " + i);
+
+                        i = num1 * num2 + 1;
+                    }
+                }
+             */
+        }
+
+        /// <summary>
+        /// Comprueba si un número es primo.
+        /// </summary>
+        static void EsPrimo() // 40 
+        {
+            // Declaro variables y les doy un valor
+
+            int numero, i, contador;
+
+            Console.WriteLine("Dime un número.");
+            numero = int.Parse(Console.ReadLine());
+
+            i = numero - 1;
+            contador = 0;
+
+            // Mientras i esté entre mi número y 1 (num, num-1, num-2... 1)
+
+            while (i > 1)
+            {
+                if (numero % i == 0)
+                {
+                    contador = contador + 1;
+                }
+
+                i--;
+            }
+            
+            if (contador > 0)
+            {
+                Console.WriteLine("Tu número no es primo.");
+            }
+            else
+            {
+                Console.WriteLine("Tu número es primo.");
+            }
+        }
+
+        /// <summary>
+        /// Escribe los números primos que hay entre 2 y 1000.
+        /// </summary>
+        static void PrimosEntre2y1000() // 41 
+        {
+            // Variables
+
+            int i, j, contador;
+
+            for (i = 2; i <= 1000; i++) // Recorro los números del 2 al 1000
+            {
+
+                j = i - 1;
+                contador = 0;
+
+                while (j > 1)
+                {
+                    if (i % j == 0) // Para cada i, compruebo si es primo
+                    {
+                        contador = contador + 1;
+                    }
+
+                    j = j - 1;
+                }
+
+                if (contador == 0)
+                {
+                    Console.WriteLine(i);
+                }
+
+            }
+        }
+
+        /// <summary>
+        /// Juego del número secreto: el usuario deberá adivinar un número entre 1 y 100.
+        /// </summary>
+        static void NumeroSecreto() // 42 
+        {
+            // Variables
+
+            int aleatorio, n, intentos, a;
+
+            // Obtengo el número aleatorio
+
+            Random r = new Random();
+            aleatorio = r.Next(1, 101);
+            intentos = 1;
+
+            // Juego
+
+            Console.WriteLine("Intenta adivinar mi número.");
+            n = int.Parse(Console.ReadLine());
+
+            while (n != aleatorio) // Mientras no acierte
+            {
+                if (n < aleatorio)
+                {
+                    Console.WriteLine("Mi número es mayor.");
+                }
+                else // n > aleatorio
+                {
+                    Console.WriteLine("Mi número es menor.");
+                }
+
+                intentos = intentos + 1;
+
+                Console.WriteLine("Escribe otro número.");
+                n = int.Parse(Console.ReadLine());
+            }
+
+            Console.WriteLine("¡Felicidades! Has tardado " + intentos + " intentos.");
+
+        }
 
         static void Main(string[] args)
         {
@@ -811,7 +1433,7 @@ namespace programacionestructurada20171001
             Console.WriteLine("====");
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("Condicionales");
+            Console.WriteLine("Condicionales: if/else");
             Console.WriteLine("-------------");
             Console.WriteLine("");
             Console.WriteLine("1.- Resta absoluta de dos números enteros");
@@ -823,7 +1445,7 @@ namespace programacionestructurada20171001
             Console.WriteLine("7.- Resuelve una ecuación de segundo grado");
             Console.WriteLine("8.- Ordena tres números enteros de mayor a menor");
             Console.WriteLine("");
-            Console.WriteLine("Bucles");
+            Console.WriteLine("Bucles: while");
             Console.WriteLine("------");
             Console.WriteLine("");
             Console.WriteLine("9.- Escribe los números del 10 al 20");
@@ -841,17 +1463,39 @@ namespace programacionestructurada20171001
             Console.WriteLine("21.- Máximo, mínimo y media de diez números.");
             Console.WriteLine("22.- Factorial de un número entero positivo.");
             Console.WriteLine("");
+            Console.WriteLine("Bucles: for");
+            Console.WriteLine("------");
+            Console.WriteLine("");
+            Console.WriteLine("23.- Escribe los números del 10 al 20");
+            Console.WriteLine("24.- Escribe los números impares del 1 al 10");
+            Console.WriteLine("25.- Escribe los diez primeros pares");
+            Console.WriteLine("26.- Escribe los números pares o impares del 1 al 10");
+            Console.WriteLine("27.- Escribe la tabla de multiplicar de un número.");
+            Console.WriteLine("28.- Escribe los números de un intervalo.");
+            Console.WriteLine("29.- Escribe los impares de un intervalo.");
+            Console.WriteLine("30.- Suma los números pares del 1 al 1000.");
+            Console.WriteLine("31.- Número de aprobados y suspensos.");
+            Console.WriteLine("32.- Máximo de diez números.");
+            Console.WriteLine("33.- Máximo, mínimo y media de diez números.");
+            Console.WriteLine("34.- Factorial de un número");
+            Console.WriteLine("");
+            Console.WriteLine("Más bucles");
+            Console.WriteLine("------");
+            Console.WriteLine("35.- Escribe una nota");
+            Console.WriteLine("36.- Escribe los 10 primeros no múltiplos de 2 ni 3.");
+            Console.WriteLine("37.- Escribe los múltiplos de 11, 17 o 23 entre 1 y 100.");
+            Console.WriteLine("38.- Máximo común divisor de dos números.");
+            Console.WriteLine("39.- Mínimo común múltiplo.");
+            Console.WriteLine("40.- Comprueba si un número es primo.");
+            Console.WriteLine("41.- Escribe los primos entre 2 y 1000.");
+            Console.WriteLine("42.- Juego del número secreto");
             Console.WriteLine("");
             Console.WriteLine("");
+            Console.WriteLine("------");
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
+
+            // A continuación se utiliza un switch para poder acceder a los ejercicios a través de un menú.
 
             opcion = int.Parse(Console.ReadLine());
 
@@ -922,6 +1566,66 @@ namespace programacionestructurada20171001
                     break;
                 case 22:
                     Factorial();
+                    break;
+                case 23:
+                    Escribe10al20For();
+                    break;
+                case 24:
+                    EscribeImpares1al10For();
+                    break;
+                case 25:
+                    EscribeDiezPrimerosParesFor();
+                    break;
+                case 26:
+                    ParesOImpares1al10For();
+                    break;
+                case 27:
+                    TablaDeMultiplicarFor();
+                    break;
+                case 28:
+                    EscribeNumerosIntervaloFor();
+                    break;
+                case 29:                  
+                    EscribeImparesIntervaloFor();
+                    break;
+                case 30:
+                    SumaPares1a1000For();
+                    break;
+                case 31:
+                    NumerodeAprobadosYSuspensosFor();
+                    break;
+                case 32:
+                    Maximo10NumerosFor();
+                    break;
+                case 33:
+                    MaximoMinimoMedia10NumerosFor();
+                    break;
+                case 34:
+                    FactorialFor();
+                    break;
+                case 35:
+                    EscribeNota();
+                    break;
+                case 36:
+                    NoMultiplos2ni3();
+                    break;
+                case 37:
+                    Multiplos111723();
+                    break;
+                case 38:
+                    MaximoComunDivisor();
+                    break;
+                case 39:
+                    MinimoComunMultiplo();
+                    break;
+                case 40:
+                    EsPrimo();
+                    break;
+                case 41:
+                    PrimosEntre2y1000();
+                    break;
+                case 42:
+                    NumeroSecreto();
                     break;
                 default:
                     Console.WriteLine("Operación no disponible.");
