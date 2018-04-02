@@ -1,0 +1,28 @@
+C:\Users\Isabel\source\repos\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.exe.config
+C:\Users\Isabel\source\repos\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.exe
+C:\Users\Isabel\source\repos\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.pdb
+C:\Users\Isabel\source\repos\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\source\repos\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\source\repos\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.exe
+C:\Users\Isabel\source\repos\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.csprojResolveAssemblyReference.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.exe.config
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.exe.config
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.csprojResolveAssemblyReference.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.pdb
+C:\Users\Isa\source\repos\modificando_para_git\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.exe.config
+C:\Users\Isa\source\repos\modificando_para_git\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.exe
+C:\Users\Isa\source\repos\modificando_para_git\EjerciciosArrays\EjerciciosArrays\bin\Debug\EjerciciosArrays.pdb
+C:\Users\Isa\source\repos\modificando_para_git\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\modificando_para_git\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\modificando_para_git\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.exe
+C:\Users\Isa\source\repos\modificando_para_git\EjerciciosArrays\EjerciciosArrays\obj\Debug\EjerciciosArrays.pdb
