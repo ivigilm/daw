@@ -1,0 +1,14 @@
+C:\Users\Isabel\source\repos\ejsadicionalesarray\ejsadicionalesarray\bin\Debug\ejsadicionalesarray.exe.config
+C:\Users\Isabel\source\repos\ejsadicionalesarray\ejsadicionalesarray\bin\Debug\ejsadicionalesarray.exe
+C:\Users\Isabel\source\repos\ejsadicionalesarray\ejsadicionalesarray\bin\Debug\ejsadicionalesarray.pdb
+C:\Users\Isabel\source\repos\ejsadicionalesarray\ejsadicionalesarray\obj\Debug\ejsadicionalesarray.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\source\repos\ejsadicionalesarray\ejsadicionalesarray\obj\Debug\ejsadicionalesarray.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\source\repos\ejsadicionalesarray\ejsadicionalesarray\obj\Debug\ejsadicionalesarray.exe
+C:\Users\Isabel\source\repos\ejsadicionalesarray\ejsadicionalesarray\obj\Debug\ejsadicionalesarray.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\ejsadicionalesarray\ejsadicionalesarray\bin\Debug\ejsadicionalesarray.exe.config
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\ejsadicionalesarray\ejsadicionalesarray\bin\Debug\ejsadicionalesarray.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\ejsadicionalesarray\ejsadicionalesarray\bin\Debug\ejsadicionalesarray.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\ejsadicionalesarray\ejsadicionalesarray\obj\Debug\ejsadicionalesarray.csprojResolveAssemblyReference.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\ejsadicionalesarray\ejsadicionalesarray\obj\Debug\ejsadicionalesarray.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\ejsadicionalesarray\ejsadicionalesarray\obj\Debug\ejsadicionalesarray.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\20171110ejercicios_arrays_actualizado131217\ejsadicionalesarray\ejsadicionalesarray\obj\Debug\ejsadicionalesarray.pdb
