@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\tresenraya\tresenraya\obj\Debug\tresenraya.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\tresenraya\tresenraya\obj\Debug\tresenraya.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\tresenraya\tresenraya\bin\Debug\tresenraya.exe.config
+C:\Users\Isa\source\repos\tresenraya\tresenraya\bin\Debug\tresenraya.exe
+C:\Users\Isa\source\repos\tresenraya\tresenraya\bin\Debug\tresenraya.pdb
+C:\Users\Isa\source\repos\tresenraya\tresenraya\obj\Debug\tresenraya.exe
+C:\Users\Isa\source\repos\tresenraya\tresenraya\obj\Debug\tresenraya.pdb
