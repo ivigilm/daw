@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\alumnoygrupo\alumnoygrupo\bin\Debug\alumnoygrupo.exe.config
+C:\Users\Isa\source\repos\alumnoygrupo\alumnoygrupo\bin\Debug\alumnoygrupo.exe
+C:\Users\Isa\source\repos\alumnoygrupo\alumnoygrupo\bin\Debug\alumnoygrupo.pdb
+C:\Users\Isa\source\repos\alumnoygrupo\alumnoygrupo\obj\Debug\alumnoygrupo.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\alumnoygrupo\alumnoygrupo\obj\Debug\alumnoygrupo.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\alumnoygrupo\alumnoygrupo\obj\Debug\alumnoygrupo.exe
+C:\Users\Isa\source\repos\alumnoygrupo\alumnoygrupo\obj\Debug\alumnoygrupo.pdb
