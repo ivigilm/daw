@@ -65,7 +65,7 @@ namespace alumnoygrupo
             for (i = 0; i < listaAlumnos.Count; i++)
             {
                 impresion = impresion + listaAlumnos[i].Imprime(); // utilizo el método Imprime() de la clase Alumno
-                impresion = impresion + "\n"; // ¿¿sobra Imprime()??
+                impresion = impresion + "\n";
             }
 
             return impresion;

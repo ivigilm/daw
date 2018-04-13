@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\Fracciones\Fracciones\bin\Debug\Fracciones.exe.config
+C:\Users\Isa\source\repos\Fracciones\Fracciones\bin\Debug\Fracciones.exe
+C:\Users\Isa\source\repos\Fracciones\Fracciones\bin\Debug\Fracciones.pdb
+C:\Users\Isa\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.exe
+C:\Users\Isa\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.pdb
