@@ -1,0 +1,14 @@
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\cartaybaraja\cartaybaraja\bin\Debug\cartaybaraja.exe.config
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\cartaybaraja\cartaybaraja\bin\Debug\cartaybaraja.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\cartaybaraja\cartaybaraja\bin\Debug\cartaybaraja.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\cartaybaraja\cartaybaraja\obj\Debug\cartaybaraja.csprojResolveAssemblyReference.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\cartaybaraja\cartaybaraja\obj\Debug\cartaybaraja.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\cartaybaraja\cartaybaraja\obj\Debug\cartaybaraja.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\cartaybaraja\cartaybaraja\obj\Debug\cartaybaraja.pdb
+C:\Users\Isa\source\repos\cartaybaraja\cartaybaraja\bin\Debug\cartaybaraja.exe.config
+C:\Users\Isa\source\repos\cartaybaraja\cartaybaraja\bin\Debug\cartaybaraja.exe
+C:\Users\Isa\source\repos\cartaybaraja\cartaybaraja\bin\Debug\cartaybaraja.pdb
+C:\Users\Isa\source\repos\cartaybaraja\cartaybaraja\obj\Debug\cartaybaraja.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\cartaybaraja\cartaybaraja\obj\Debug\cartaybaraja.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\cartaybaraja\cartaybaraja\obj\Debug\cartaybaraja.exe
+C:\Users\Isa\source\repos\cartaybaraja\cartaybaraja\obj\Debug\cartaybaraja.pdb
