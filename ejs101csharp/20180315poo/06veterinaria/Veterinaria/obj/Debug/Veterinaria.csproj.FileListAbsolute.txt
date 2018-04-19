@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\Isa\source\repos\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\Isa\source\repos\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\Isa\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\Isa\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb

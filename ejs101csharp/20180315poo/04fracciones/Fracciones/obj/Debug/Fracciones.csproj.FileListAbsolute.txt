@@ -5,3 +5,10 @@ C:\Users\Isa\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.csprojResol
 C:\Users\Isa\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.csproj.CoreCompileInputs.cache
 C:\Users\Isa\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.exe
 C:\Users\Isa\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20180315poo\04fracciones\Fracciones\bin\Debug\Fracciones.exe.config
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20180315poo\04fracciones\Fracciones\bin\Debug\Fracciones.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20180315poo\04fracciones\Fracciones\bin\Debug\Fracciones.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20180315poo\04fracciones\Fracciones\obj\Debug\Fracciones.csprojResolveAssemblyReference.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20180315poo\04fracciones\Fracciones\obj\Debug\Fracciones.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20180315poo\04fracciones\Fracciones\obj\Debug\Fracciones.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20180315poo\04fracciones\Fracciones\obj\Debug\Fracciones.pdb
