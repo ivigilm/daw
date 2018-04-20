@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\Dinero\Dinero\bin\Debug\Dinero.exe.config
+C:\Users\Isa\source\repos\Dinero\Dinero\bin\Debug\Dinero.exe
+C:\Users\Isa\source\repos\Dinero\Dinero\bin\Debug\Dinero.pdb
+C:\Users\Isa\source\repos\Dinero\Dinero\obj\Debug\Dinero.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\Dinero\Dinero\obj\Debug\Dinero.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\Dinero\Dinero\obj\Debug\Dinero.exe
+C:\Users\Isa\source\repos\Dinero\Dinero\obj\Debug\Dinero.pdb
