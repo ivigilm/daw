@@ -1,0 +1,7 @@
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20171020pe\programacionestructurada20171020\bin\Debug\programacionestructurada20171020.exe.config
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20171020pe\programacionestructurada20171020\bin\Debug\programacionestructurada20171020.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20171020pe\programacionestructurada20171020\bin\Debug\programacionestructurada20171020.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20171020pe\programacionestructurada20171020\obj\Debug\programacionestructurada20171020.csprojResolveAssemblyReference.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20171020pe\programacionestructurada20171020\obj\Debug\programacionestructurada20171020.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20171020pe\programacionestructurada20171020\obj\Debug\programacionestructurada20171020.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\versionparagit\ejs101csharp\20171020pe\programacionestructurada20171020\obj\Debug\programacionestructurada20171020.pdb
