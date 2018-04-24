@@ -1,0 +1,14 @@
+C:\Users\Isabel\source\repos\ejerciciosdelistas\ejerciciosdelistas\bin\Debug\ejerciciosdelistas.exe.config
+C:\Users\Isabel\source\repos\ejerciciosdelistas\ejerciciosdelistas\bin\Debug\ejerciciosdelistas.exe
+C:\Users\Isabel\source\repos\ejerciciosdelistas\ejerciciosdelistas\bin\Debug\ejerciciosdelistas.pdb
+C:\Users\Isabel\source\repos\ejerciciosdelistas\ejerciciosdelistas\obj\Debug\ejerciciosdelistas.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\source\repos\ejerciciosdelistas\ejerciciosdelistas\obj\Debug\ejerciciosdelistas.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\source\repos\ejerciciosdelistas\ejerciciosdelistas\obj\Debug\ejerciciosdelistas.exe
+C:\Users\Isabel\source\repos\ejerciciosdelistas\ejerciciosdelistas\obj\Debug\ejerciciosdelistas.pdb
+C:\Users\Isa\source\repos\ejerciciosdelistas\ejerciciosdelistas\bin\Debug\ejerciciosdelistas.exe.config
+C:\Users\Isa\source\repos\ejerciciosdelistas\ejerciciosdelistas\bin\Debug\ejerciciosdelistas.exe
+C:\Users\Isa\source\repos\ejerciciosdelistas\ejerciciosdelistas\bin\Debug\ejerciciosdelistas.pdb
+C:\Users\Isa\source\repos\ejerciciosdelistas\ejerciciosdelistas\obj\Debug\ejerciciosdelistas.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ejerciciosdelistas\ejerciciosdelistas\obj\Debug\ejerciciosdelistas.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ejerciciosdelistas\ejerciciosdelistas\obj\Debug\ejerciciosdelistas.exe
+C:\Users\Isa\source\repos\ejerciciosdelistas\ejerciciosdelistas\obj\Debug\ejerciciosdelistas.pdb
