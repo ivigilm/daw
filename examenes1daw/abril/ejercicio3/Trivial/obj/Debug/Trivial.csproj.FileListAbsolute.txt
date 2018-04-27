@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\Trivial\Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Isa\source\repos\Trivial\Trivial\bin\Debug\Trivial.exe
+C:\Users\Isa\source\repos\Trivial\Trivial\bin\Debug\Trivial.pdb
+C:\Users\Isa\source\repos\Trivial\Trivial\obj\Debug\Trivial.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\Trivial\Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\Trivial\Trivial\obj\Debug\Trivial.exe
+C:\Users\Isa\source\repos\Trivial\Trivial\obj\Debug\Trivial.pdb

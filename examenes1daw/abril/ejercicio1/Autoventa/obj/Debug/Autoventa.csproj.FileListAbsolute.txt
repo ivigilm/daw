@@ -1,0 +1,14 @@
+C:\Users\Isa\source\repos\Autoventa\Autoventa\bin\Debug\Autoventa.exe.config
+C:\Users\Isa\source\repos\Autoventa\Autoventa\bin\Debug\Autoventa.exe
+C:\Users\Isa\source\repos\Autoventa\Autoventa\bin\Debug\Autoventa.pdb
+C:\Users\Isa\source\repos\Autoventa\Autoventa\obj\Debug\Autoventa.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\Autoventa\Autoventa\obj\Debug\Autoventa.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\Autoventa\Autoventa\obj\Debug\Autoventa.exe
+C:\Users\Isa\source\repos\Autoventa\Autoventa\obj\Debug\Autoventa.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\examen20180425\vigilmoranisabel\ejercicio1\Autoventa\bin\Debug\Autoventa.exe.config
+D:\ISA\000_DAW\PROGRAMACION - Luis\examen20180425\vigilmoranisabel\ejercicio1\Autoventa\bin\Debug\Autoventa.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\examen20180425\vigilmoranisabel\ejercicio1\Autoventa\bin\Debug\Autoventa.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\examen20180425\vigilmoranisabel\ejercicio1\Autoventa\obj\Debug\Autoventa.csprojResolveAssemblyReference.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\examen20180425\vigilmoranisabel\ejercicio1\Autoventa\obj\Debug\Autoventa.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\examen20180425\vigilmoranisabel\ejercicio1\Autoventa\obj\Debug\Autoventa.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\examen20180425\vigilmoranisabel\ejercicio1\Autoventa\obj\Debug\Autoventa.pdb
