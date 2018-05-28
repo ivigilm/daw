@@ -1,0 +1,7 @@
+C:\Users\Isabel\source\repos\ficherosbinarios\ficherosbinarios\bin\Debug\ficherosbinarios.exe.config
+C:\Users\Isabel\source\repos\ficherosbinarios\ficherosbinarios\bin\Debug\ficherosbinarios.exe
+C:\Users\Isabel\source\repos\ficherosbinarios\ficherosbinarios\bin\Debug\ficherosbinarios.pdb
+C:\Users\Isabel\source\repos\ficherosbinarios\ficherosbinarios\obj\Debug\ficherosbinarios.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\source\repos\ficherosbinarios\ficherosbinarios\obj\Debug\ficherosbinarios.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\source\repos\ficherosbinarios\ficherosbinarios\obj\Debug\ficherosbinarios.exe
+C:\Users\Isabel\source\repos\ficherosbinarios\ficherosbinarios\obj\Debug\ficherosbinarios.pdb

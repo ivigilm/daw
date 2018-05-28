@@ -1,0 +1,7 @@
+C:\Users\Isabel\source\repos\ficherosdetexto1daw\ficherosdetexto1daw\bin\Debug\ficherosdetexto1daw.exe.config
+C:\Users\Isabel\source\repos\ficherosdetexto1daw\ficherosdetexto1daw\bin\Debug\ficherosdetexto1daw.exe
+C:\Users\Isabel\source\repos\ficherosdetexto1daw\ficherosdetexto1daw\bin\Debug\ficherosdetexto1daw.pdb
+C:\Users\Isabel\source\repos\ficherosdetexto1daw\ficherosdetexto1daw\obj\Debug\ficherosdetexto1daw.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\source\repos\ficherosdetexto1daw\ficherosdetexto1daw\obj\Debug\ficherosdetexto1daw.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\source\repos\ficherosdetexto1daw\ficherosdetexto1daw\obj\Debug\ficherosdetexto1daw.exe
+C:\Users\Isabel\source\repos\ficherosdetexto1daw\ficherosdetexto1daw\obj\Debug\ficherosdetexto1daw.pdb

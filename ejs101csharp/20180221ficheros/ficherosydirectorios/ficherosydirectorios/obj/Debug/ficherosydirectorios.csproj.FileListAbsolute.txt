@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\ficherosydirectorios\ficherosydirectorios\obj\Debug\ficherosydirectorios.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ficherosydirectorios\ficherosydirectorios\obj\Debug\ficherosydirectorios.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ficherosydirectorios\ficherosydirectorios\bin\Debug\ficherosydirectorios.exe.config
+C:\Users\Isa\source\repos\ficherosydirectorios\ficherosydirectorios\bin\Debug\ficherosydirectorios.exe
+C:\Users\Isa\source\repos\ficherosydirectorios\ficherosydirectorios\bin\Debug\ficherosydirectorios.pdb
+C:\Users\Isa\source\repos\ficherosydirectorios\ficherosydirectorios\obj\Debug\ficherosydirectorios.exe
+C:\Users\Isa\source\repos\ficherosydirectorios\ficherosydirectorios\obj\Debug\ficherosydirectorios.pdb

@@ -1,0 +1,14 @@
+C:\Users\Isa\source\repos\structalumnos\structalumnos\bin\Debug\structalumnos.exe.config
+C:\Users\Isa\source\repos\structalumnos\structalumnos\bin\Debug\structalumnos.exe
+C:\Users\Isa\source\repos\structalumnos\structalumnos\bin\Debug\structalumnos.pdb
+C:\Users\Isa\source\repos\structalumnos\structalumnos\obj\Debug\structalumnos.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\structalumnos\structalumnos\obj\Debug\structalumnos.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\structalumnos\structalumnos\obj\Debug\structalumnos.exe
+C:\Users\Isa\source\repos\structalumnos\structalumnos\obj\Debug\structalumnos.pdb
+C:\Users\Isabel\source\repos\structalumnos\structalumnos\bin\Debug\structalumnos.exe.config
+C:\Users\Isabel\source\repos\structalumnos\structalumnos\bin\Debug\structalumnos.exe
+C:\Users\Isabel\source\repos\structalumnos\structalumnos\bin\Debug\structalumnos.pdb
+C:\Users\Isabel\source\repos\structalumnos\structalumnos\obj\Debug\structalumnos.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\source\repos\structalumnos\structalumnos\obj\Debug\structalumnos.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\source\repos\structalumnos\structalumnos\obj\Debug\structalumnos.exe
+C:\Users\Isabel\source\repos\structalumnos\structalumnos\obj\Debug\structalumnos.pdb
