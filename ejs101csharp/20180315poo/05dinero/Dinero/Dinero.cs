@@ -223,16 +223,19 @@ namespace Dinero
 
             for(i = 0; i < lista_monedas.Count; i++)
             {
-               if(lista_monedas[i].Tmoneda == this.moneda) //si mi tipo de moneda (el que tendré en la variable a la que le hago ToString()) es igual al elemento de la lista.
-
-                if (moneda == TipoMoneda.Dolar) // si es dólar, el símbolo va delante
+                //si mi tipo de moneda (el que tendré en la variable a la que le hago ToString()) es igual al elemento de la lista.
+                if (lista_monedas[i].Tmoneda == this.moneda)
                 {
-                    dineroformateado = lista_monedas[i].Simbolo + Math.Round(cantidad, lista_monedas[i].Decimales);
-                }
-                else // si no, va detrás
-                {
+                    if (moneda == TipoMoneda.Dolar) // si es dólar, el símbolo va delante
+                    {
+                        dineroformateado = lista_monedas[i].Simbolo + Math.Round(cantidad, lista_monedas[i].Decimales);
+                    }
+                    else // si no, va detrás
+                    {
                         dineroformateado = Math.Round(cantidad, lista_monedas[i].Decimales) + lista_monedas[i].Simbolo;
+                    }
                 }
+
             }            
 
             return dineroformateado;
