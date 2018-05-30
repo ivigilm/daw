@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\bin\Debug\ej11generadordados.exe.config
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\bin\Debug\ej11generadordados.exe
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\bin\Debug\ej11generadordados.pdb
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\obj\Debug\ej11generadordados.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\obj\Debug\ej11generadordados.Form1.resources
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\obj\Debug\ej11generadordados.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\obj\Debug\ej11generadordados.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\obj\Debug\ej11generadordados.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\obj\Debug\ej11generadordados.exe
+C:\Users\Isa\source\repos\ej11generadordados\ej11generadordados\obj\Debug\ej11generadordados.pdb

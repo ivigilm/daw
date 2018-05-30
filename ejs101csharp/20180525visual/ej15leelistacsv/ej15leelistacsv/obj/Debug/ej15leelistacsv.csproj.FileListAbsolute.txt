@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\bin\Debug\ej15leelistacsv.exe.config
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\bin\Debug\ej15leelistacsv.exe
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\bin\Debug\ej15leelistacsv.pdb
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\obj\Debug\ej15leelistacsv.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\obj\Debug\ej15leelistacsv.Form1.resources
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\obj\Debug\ej15leelistacsv.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\obj\Debug\ej15leelistacsv.csproj.GenerateResource.cache
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\obj\Debug\ej15leelistacsv.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\obj\Debug\ej15leelistacsv.exe
+C:\Users\Isa\source\repos\ej15leelistacsv\ej15leelistacsv\obj\Debug\ej15leelistacsv.pdb

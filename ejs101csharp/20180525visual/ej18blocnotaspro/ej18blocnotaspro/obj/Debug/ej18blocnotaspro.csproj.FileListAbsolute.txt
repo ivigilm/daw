@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\bin\Debug\ej18blocnotaspro.exe.config
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\bin\Debug\ej18blocnotaspro.exe
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\bin\Debug\ej18blocnotaspro.pdb
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\obj\Debug\ej18blocnotaspro.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\obj\Debug\ej18blocnotaspro.Form1.resources
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\obj\Debug\ej18blocnotaspro.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\obj\Debug\ej18blocnotaspro.csproj.GenerateResource.cache
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\obj\Debug\ej18blocnotaspro.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\obj\Debug\ej18blocnotaspro.exe
+C:\Users\Isa\source\repos\ej18blocnotaspro\ej18blocnotaspro\obj\Debug\ej18blocnotaspro.pdb

@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\bin\Debug\ej19reservabus.exe.config
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\bin\Debug\ej19reservabus.exe
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\bin\Debug\ej19reservabus.pdb
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\obj\Debug\ej19reservabus.Form1.resources
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\obj\Debug\ej19reservabus.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\obj\Debug\ej19reservabus.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\obj\Debug\ej19reservabus.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\obj\Debug\ej19reservabus.exe
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\obj\Debug\ej19reservabus.pdb
+C:\Users\Isa\source\repos\ej19reservabus\ej19reservabus\obj\Debug\ej19reservabus.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\bin\Debug\ej12multiconversor.exe.config
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\bin\Debug\ej12multiconversor.exe
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\bin\Debug\ej12multiconversor.pdb
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\obj\Debug\ej12multiconversor.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\obj\Debug\ej12multiconversor.Form1.resources
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\obj\Debug\ej12multiconversor.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\obj\Debug\ej12multiconversor.csproj.GenerateResource.cache
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\obj\Debug\ej12multiconversor.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\obj\Debug\ej12multiconversor.exe
+C:\Users\Isa\source\repos\ej12multiconversor\ej12multiconversor\obj\Debug\ej12multiconversor.pdb

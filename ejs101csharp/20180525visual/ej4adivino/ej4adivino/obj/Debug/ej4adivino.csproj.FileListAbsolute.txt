@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\bin\Debug\ej4adivino.exe.config
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\bin\Debug\ej4adivino.exe
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\bin\Debug\ej4adivino.pdb
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\obj\Debug\ej4adivino.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\obj\Debug\ej4adivino.Form1.resources
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\obj\Debug\ej4adivino.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\obj\Debug\ej4adivino.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\obj\Debug\ej4adivino.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\obj\Debug\ej4adivino.exe
+C:\Users\Isa\source\repos\ej4adivino\ej4adivino\obj\Debug\ej4adivino.pdb

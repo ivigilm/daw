@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\bin\Debug\ej6traductorenes.exe.config
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\bin\Debug\ej6traductorenes.exe
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\bin\Debug\ej6traductorenes.pdb
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\obj\Debug\ej6traductorenes.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\obj\Debug\ej6traductorenes.Form1.resources
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\obj\Debug\ej6traductorenes.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\obj\Debug\ej6traductorenes.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\obj\Debug\ej6traductorenes.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\obj\Debug\ej6traductorenes.exe
+C:\Users\Isa\source\repos\ej6traductorenes\ej6traductorenes\obj\Debug\ej6traductorenes.pdb

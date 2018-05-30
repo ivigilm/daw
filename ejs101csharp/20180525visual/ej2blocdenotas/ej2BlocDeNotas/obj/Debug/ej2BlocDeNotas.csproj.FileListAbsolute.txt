@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\bin\Debug\ej2BlocDeNotas.exe.config
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\bin\Debug\ej2BlocDeNotas.exe
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\bin\Debug\ej2BlocDeNotas.pdb
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\obj\Debug\ej2BlocDeNotas.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\obj\Debug\ej2BlocDeNotas.Form1.resources
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\obj\Debug\ej2BlocDeNotas.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\obj\Debug\ej2BlocDeNotas.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\obj\Debug\ej2BlocDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\obj\Debug\ej2BlocDeNotas.exe
+C:\Users\Isa\source\repos\ej2BlocDeNotas\ej2BlocDeNotas\obj\Debug\ej2BlocDeNotas.pdb

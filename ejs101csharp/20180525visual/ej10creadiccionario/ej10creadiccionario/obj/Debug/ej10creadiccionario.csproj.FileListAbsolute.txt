@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\bin\Debug\ej10creadiccionario.exe.config
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\bin\Debug\ej10creadiccionario.exe
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\bin\Debug\ej10creadiccionario.pdb
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\obj\Debug\ej10creadiccionario.Form1.resources
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\obj\Debug\ej10creadiccionario.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\obj\Debug\ej10creadiccionario.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\obj\Debug\ej10creadiccionario.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\obj\Debug\ej10creadiccionario.exe
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\obj\Debug\ej10creadiccionario.pdb
+C:\Users\Isa\source\repos\ej10creadiccionario\ej10creadiccionario\obj\Debug\ej10creadiccionario.csprojAssemblyReference.cache

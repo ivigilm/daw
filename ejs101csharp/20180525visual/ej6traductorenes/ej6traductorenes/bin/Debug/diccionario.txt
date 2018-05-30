@@ -1,0 +1,4 @@
+patata,potato
+mar,sea
+delfín,dolphin
+madre,mother

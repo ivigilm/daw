@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej10creadiccionario", "ej10creadiccionario\ej10creadiccionario.csproj", "{9F5C40F7-4D0F-4F59-BFED-38363FD71334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5C40F7-4D0F-4F59-BFED-38363FD71334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5C40F7-4D0F-4F59-BFED-38363FD71334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5C40F7-4D0F-4F59-BFED-38363FD71334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5C40F7-4D0F-4F59-BFED-38363FD71334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3943D3F9-8871-4EAF-93E2-8BA6E1257B27}
+	EndGlobalSection
+EndGlobal

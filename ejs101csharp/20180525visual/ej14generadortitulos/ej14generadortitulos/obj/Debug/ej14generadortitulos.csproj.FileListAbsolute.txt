@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\bin\Debug\ej14generadortitulos.exe.config
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\bin\Debug\ej14generadortitulos.exe
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\bin\Debug\ej14generadortitulos.pdb
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\obj\Debug\ej14generadortitulos.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\obj\Debug\ej14generadortitulos.Form1.resources
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\obj\Debug\ej14generadortitulos.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\obj\Debug\ej14generadortitulos.csproj.GenerateResource.cache
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\obj\Debug\ej14generadortitulos.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\obj\Debug\ej14generadortitulos.exe
+C:\Users\Isa\source\repos\ej14generadortitulos\ej14generadortitulos\obj\Debug\ej14generadortitulos.pdb

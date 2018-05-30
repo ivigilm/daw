@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\bin\Debug\ej8cursor.exe.config
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\bin\Debug\ej8cursor.exe
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\bin\Debug\ej8cursor.pdb
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.Form1.resources
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.exe
+C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.pdb

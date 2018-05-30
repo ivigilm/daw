@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\holamundo\holamundo\bin\Debug\holamundo.exe.config
+C:\Users\Isa\source\repos\holamundo\holamundo\bin\Debug\holamundo.exe
+C:\Users\Isa\source\repos\holamundo\holamundo\bin\Debug\holamundo.pdb
+C:\Users\Isa\source\repos\holamundo\holamundo\obj\Debug\holamundo.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\holamundo\holamundo\obj\Debug\holamundo.Form1.resources
+C:\Users\Isa\source\repos\holamundo\holamundo\obj\Debug\holamundo.Properties.Resources.resources
+C:\Users\Isa\source\repos\holamundo\holamundo\obj\Debug\holamundo.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\holamundo\holamundo\obj\Debug\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\holamundo\holamundo\obj\Debug\holamundo.exe
+C:\Users\Isa\source\repos\holamundo\holamundo\obj\Debug\holamundo.pdb

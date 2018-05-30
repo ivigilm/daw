@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\bin\Debug\ej9estadisticastexto.exe.config
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\bin\Debug\ej9estadisticastexto.exe
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\bin\Debug\ej9estadisticastexto.pdb
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\obj\Debug\ej9estadisticastexto.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\obj\Debug\ej9estadisticastexto.Form1.resources
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\obj\Debug\ej9estadisticastexto.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\obj\Debug\ej9estadisticastexto.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\obj\Debug\ej9estadisticastexto.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\obj\Debug\ej9estadisticastexto.exe
+C:\Users\Isa\source\repos\ej9estadisticastexto\ej9estadisticastexto\obj\Debug\ej9estadisticastexto.pdb

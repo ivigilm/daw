@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\bin\Debug\ej13supertest.exe.config
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\bin\Debug\ej13supertest.exe
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\bin\Debug\ej13supertest.pdb
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\obj\Debug\ej13supertest.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\obj\Debug\ej13supertest.Form1.resources
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\obj\Debug\ej13supertest.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\obj\Debug\ej13supertest.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\obj\Debug\ej13supertest.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\obj\Debug\ej13supertest.exe
+C:\Users\Isa\source\repos\ej13supertest\ej13supertest\obj\Debug\ej13supertest.pdb

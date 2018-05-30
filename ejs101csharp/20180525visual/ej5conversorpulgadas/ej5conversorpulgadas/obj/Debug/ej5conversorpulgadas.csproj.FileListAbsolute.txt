@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\bin\Debug\ej5conversorpulgadas.exe.config
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\bin\Debug\ej5conversorpulgadas.exe
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\bin\Debug\ej5conversorpulgadas.pdb
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\obj\Debug\ej5conversorpulgadas.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\obj\Debug\ej5conversorpulgadas.Form1.resources
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\obj\Debug\ej5conversorpulgadas.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\obj\Debug\ej5conversorpulgadas.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\obj\Debug\ej5conversorpulgadas.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\obj\Debug\ej5conversorpulgadas.exe
+C:\Users\Isa\source\repos\ej5conversorpulgadas\ej5conversorpulgadas\obj\Debug\ej5conversorpulgadas.pdb

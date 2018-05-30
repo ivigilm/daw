@@ -1,0 +1,5 @@
+"Color preferido","Nº niños"
+Azul,8
+Rojo,7
+Verde,5
+Amarillo,2

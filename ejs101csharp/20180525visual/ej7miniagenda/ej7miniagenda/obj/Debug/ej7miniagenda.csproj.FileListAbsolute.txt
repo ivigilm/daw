@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\bin\Debug\ej7miniagenda.exe.config
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\bin\Debug\ej7miniagenda.exe
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\bin\Debug\ej7miniagenda.pdb
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\obj\Debug\ej7miniagenda.MiniAgenda.resources
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\obj\Debug\ej7miniagenda.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\obj\Debug\ej7miniagenda.csproj.GenerateResource.Cache
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\obj\Debug\ej7miniagenda.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\obj\Debug\ej7miniagenda.exe
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\obj\Debug\ej7miniagenda.pdb
+C:\Users\Isa\source\repos\ej7miniagenda\ej7miniagenda\obj\Debug\ej7miniagenda.csprojAssemblyReference.cache
