@@ -1,0 +1,3 @@
+Nombre,Color de pelo,Raza,Peso,Tamaño,Color de ojos
+Félix,negro y blanco,callejero,3kg,40cm,verde
+Sol,naranja y blanco,callejera,2kg,30cm,azul

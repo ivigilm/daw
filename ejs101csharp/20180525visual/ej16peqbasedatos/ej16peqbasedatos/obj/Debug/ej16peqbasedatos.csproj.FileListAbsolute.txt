@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\bin\Debug\ej16peqbasedatos.exe.config
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\bin\Debug\ej16peqbasedatos.exe
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\bin\Debug\ej16peqbasedatos.pdb
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\obj\Debug\ej16peqbasedatos.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\obj\Debug\ej16peqbasedatos.Form1.resources
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\obj\Debug\ej16peqbasedatos.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\obj\Debug\ej16peqbasedatos.csproj.GenerateResource.cache
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\obj\Debug\ej16peqbasedatos.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\obj\Debug\ej16peqbasedatos.exe
+C:\Users\Isa\source\repos\ej16peqbasedatos\ej16peqbasedatos\obj\Debug\ej16peqbasedatos.pdb
