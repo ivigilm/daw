@@ -1,0 +1,14 @@
+C:\Users\Isabel\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\arraysmultidimensionales.exe.config
+C:\Users\Isabel\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\arraysmultidimensionales.exe
+C:\Users\Isabel\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\arraysmultidimensionales.pdb
+C:\Users\Isabel\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\arraysmultidimensionales.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\arraysmultidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\arraysmultidimensionales.exe
+C:\Users\Isabel\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\arraysmultidimensionales.pdb
+C:\Users\Isa\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\arraysmultidimensionales.exe.config
+C:\Users\Isa\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\arraysmultidimensionales.exe
+C:\Users\Isa\source\repos\arraysmultidimensionales\arraysmultidimensionales\bin\Debug\arraysmultidimensionales.pdb
+C:\Users\Isa\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\arraysmultidimensionales.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\arraysmultidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\arraysmultidimensionales.exe
+C:\Users\Isa\source\repos\arraysmultidimensionales\arraysmultidimensionales\obj\Debug\arraysmultidimensionales.pdb
