@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Isa\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Isa\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Isa\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+C:\Users\Isa\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Isa\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

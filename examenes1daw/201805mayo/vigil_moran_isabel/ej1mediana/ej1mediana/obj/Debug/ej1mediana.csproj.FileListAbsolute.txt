@@ -1,0 +1,7 @@
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej1mediana\ej1mediana\bin\Debug\ej1mediana.exe.config
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej1mediana\ej1mediana\bin\Debug\ej1mediana.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej1mediana\ej1mediana\bin\Debug\ej1mediana.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej1mediana\ej1mediana\obj\Debug\ej1mediana.csprojAssemblyReference.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej1mediana\ej1mediana\obj\Debug\ej1mediana.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej1mediana\ej1mediana\obj\Debug\ej1mediana.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej1mediana\ej1mediana\obj\Debug\ej1mediana.pdb

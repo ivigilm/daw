@@ -1,0 +1,10 @@
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\bin\Debug\ej3bingo.exe.config
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\bin\Debug\ej3bingo.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\bin\Debug\ej3bingo.pdb
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\obj\Debug\ej3bingo.csprojAssemblyReference.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\obj\Debug\ej3bingo.Form1.resources
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\obj\Debug\ej3bingo.Properties.Resources.resources
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\obj\Debug\ej3bingo.csproj.GenerateResource.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\obj\Debug\ej3bingo.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\obj\Debug\ej3bingo.exe
+D:\ISA\000_DAW\PROGRAMACION - Luis\EXAMEN250518\vigil_moran_isabel\ej3bingo\ej3bingo\obj\Debug\ej3bingo.pdb
