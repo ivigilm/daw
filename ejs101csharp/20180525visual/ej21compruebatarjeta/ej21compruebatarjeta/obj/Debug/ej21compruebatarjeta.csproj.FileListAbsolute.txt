@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\bin\Debug\ej21compruebatarjeta.exe.config
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\bin\Debug\ej21compruebatarjeta.exe
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\bin\Debug\ej21compruebatarjeta.pdb
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\obj\Debug\ej21compruebatarjeta.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\obj\Debug\ej21compruebatarjeta.Form1.resources
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\obj\Debug\ej21compruebatarjeta.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\obj\Debug\ej21compruebatarjeta.csproj.GenerateResource.cache
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\obj\Debug\ej21compruebatarjeta.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\obj\Debug\ej21compruebatarjeta.exe
+C:\Users\Isa\source\repos\ej21compruebatarjeta\ej21compruebatarjeta\obj\Debug\ej21compruebatarjeta.pdb

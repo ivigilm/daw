@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\bin\Debug\ej20pruebafiltros.exe.config
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\bin\Debug\ej20pruebafiltros.exe
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\bin\Debug\ej20pruebafiltros.pdb
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\obj\Debug\ej20pruebafiltros.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\obj\Debug\ej20pruebafiltros.Form1.resources
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\obj\Debug\ej20pruebafiltros.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\obj\Debug\ej20pruebafiltros.csproj.GenerateResource.cache
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\obj\Debug\ej20pruebafiltros.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\obj\Debug\ej20pruebafiltros.exe
+C:\Users\Isa\source\repos\ej20pruebafiltros\ej20pruebafiltros\obj\Debug\ej20pruebafiltros.pdb
