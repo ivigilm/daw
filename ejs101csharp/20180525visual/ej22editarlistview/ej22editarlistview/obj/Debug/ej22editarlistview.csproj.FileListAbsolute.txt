@@ -1,0 +1,11 @@
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\bin\Debug\ej22editarlistview.exe.config
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\bin\Debug\ej22editarlistview.exe
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\bin\Debug\ej22editarlistview.pdb
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\obj\Debug\ej22editarlistview.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\obj\Debug\ej22editarlistview.Form1.resources
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\obj\Debug\ej22editarlistview.Form2.resources
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\obj\Debug\ej22editarlistview.Properties.Resources.resources
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\obj\Debug\ej22editarlistview.csproj.GenerateResource.cache
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\obj\Debug\ej22editarlistview.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\obj\Debug\ej22editarlistview.exe
+C:\Users\Isa\source\repos\ej22editarlistview\ej22editarlistview\obj\Debug\ej22editarlistview.pdb
