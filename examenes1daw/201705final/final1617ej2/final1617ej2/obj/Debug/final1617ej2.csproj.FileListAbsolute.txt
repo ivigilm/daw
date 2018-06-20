@@ -1,0 +1,7 @@
+C:\Users\Isa\source\repos\final1617ej2\final1617ej2\bin\Debug\final1617ej2.exe.config
+C:\Users\Isa\source\repos\final1617ej2\final1617ej2\bin\Debug\final1617ej2.exe
+C:\Users\Isa\source\repos\final1617ej2\final1617ej2\bin\Debug\final1617ej2.pdb
+C:\Users\Isa\source\repos\final1617ej2\final1617ej2\obj\Debug\final1617ej2.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\final1617ej2\final1617ej2\obj\Debug\final1617ej2.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\final1617ej2\final1617ej2\obj\Debug\final1617ej2.exe
+C:\Users\Isa\source\repos\final1617ej2\final1617ej2\obj\Debug\final1617ej2.pdb

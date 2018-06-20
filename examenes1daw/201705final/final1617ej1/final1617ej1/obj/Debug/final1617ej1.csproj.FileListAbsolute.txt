@@ -1,0 +1,10 @@
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\bin\Debug\final1617ej1.exe.config
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\bin\Debug\final1617ej1.exe
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\bin\Debug\final1617ej1.pdb
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\obj\Debug\final1617ej1.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\obj\Debug\final1617ej1.Form1.resources
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\obj\Debug\final1617ej1.Properties.Resources.resources
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\obj\Debug\final1617ej1.csproj.GenerateResource.cache
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\obj\Debug\final1617ej1.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\obj\Debug\final1617ej1.exe
+C:\Users\Isa\source\repos\final1617ej1\final1617ej1\obj\Debug\final1617ej1.pdb
