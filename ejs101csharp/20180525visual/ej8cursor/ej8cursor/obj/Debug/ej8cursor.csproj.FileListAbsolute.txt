@@ -8,3 +8,13 @@ C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.csproj.Generat
 C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.csproj.CoreCompileInputs.cache
 C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.exe
 C:\Users\Isa\source\repos\ej8cursor\ej8cursor\obj\Debug\ej8cursor.pdb
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\bin\Debug\ej8cursor.exe.config
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\bin\Debug\ej8cursor.exe
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\bin\Debug\ej8cursor.pdb
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\obj\Debug\ej8cursor.csprojAssemblyReference.cache
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\obj\Debug\ej8cursor.Form1.resources
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\obj\Debug\ej8cursor.Properties.Resources.resources
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\obj\Debug\ej8cursor.csproj.GenerateResource.cache
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\obj\Debug\ej8cursor.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\obj\Debug\ej8cursor.exe
+D:\ISA\000_DAW\1ercurso\programacion\entregados\20180525visual\ej8cursor\ej8cursor\obj\Debug\ej8cursor.pdb
