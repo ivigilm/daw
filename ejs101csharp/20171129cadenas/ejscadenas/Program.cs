@@ -61,19 +61,18 @@ namespace ejscadenas
         static bool EsPalindromo(string a) // Ejercicio 3
         {
             bool palindromo = true;
-            int i, j, posicionmitad;
+            int i, j;
 
             j = a.Length - 1;
 
-            posicionmitad = a.Length / 2;
-
-            for (i = 0; i <= posicionmitad; i++)
+            for(i = 0; i < a.Length; i++)
             {
-                if (a[i] != a[j])
+                if(a[i] != a[j])
                 {
                     palindromo = false;
                 }
-                j = j - 1;
+
+                j--;
             }
 
             return palindromo;

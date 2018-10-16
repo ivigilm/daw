@@ -26,3 +26,10 @@ D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\entregado
 D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\entregados\20171129ejercicios_cadenas\ejscadenas\ejscadenas\obj\Debug\ejscadenas.csproj.CoreCompileInputs.cache
 D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\entregados\20171129ejercicios_cadenas\ejscadenas\ejscadenas\obj\Debug\ejscadenas.exe
 D:\ISA\000_DAW\PROGRAMACION - Luis\ejercicios\ejercicios_para_entregar\entregados\20171129ejercicios_cadenas\ejscadenas\ejscadenas\obj\Debug\ejscadenas.pdb
+D:\ISA\000_DAW\1ercurso\programacion\entregados\git\ejs101csharp\20171129cadenas\ejscadenas\bin\Debug\ejscadenas.exe.config
+D:\ISA\000_DAW\1ercurso\programacion\entregados\git\ejs101csharp\20171129cadenas\ejscadenas\bin\Debug\ejscadenas.exe
+D:\ISA\000_DAW\1ercurso\programacion\entregados\git\ejs101csharp\20171129cadenas\ejscadenas\bin\Debug\ejscadenas.pdb
+D:\ISA\000_DAW\1ercurso\programacion\entregados\git\ejs101csharp\20171129cadenas\ejscadenas\obj\Debug\ejscadenas.csprojAssemblyReference.cache
+D:\ISA\000_DAW\1ercurso\programacion\entregados\git\ejs101csharp\20171129cadenas\ejscadenas\obj\Debug\ejscadenas.csproj.CoreCompileInputs.cache
+D:\ISA\000_DAW\1ercurso\programacion\entregados\git\ejs101csharp\20171129cadenas\ejscadenas\obj\Debug\ejscadenas.exe
+D:\ISA\000_DAW\1ercurso\programacion\entregados\git\ejs101csharp\20171129cadenas\ejscadenas\obj\Debug\ejscadenas.pdb
