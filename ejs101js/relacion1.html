@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Relación 1 de ejercicios iniciales</title>
+</head>
+<body>
+
+<script src="relacion1.js"></script>
+
+<p>EJERCICIO 1: Tabla de multiplicar de un número</p>
+
+<input type="text" id="ej1" placeholder="Introduce un número" />
+<button  onclick="document.getElementById('sol1').innerHTML = tablaMultiplicar(document.getElementById('ej1').value)">¡Multiplica!</button>
+<button onclick="document.getElementById('sol1').innerHTML = ''">Oculta la solución</button>
+<p id="sol1"></p>
+
+
+<p>EJERCICIO 2: Escribir "Javascript" en los 6 tamaños de las cabeceras HTML (h1 a h6).</p>
+
+<input type="text" id="ej2" placeholder="Escribe 'JavaScript'." />
+<button onclick="document.getElementById('sol2').innerHTML = escribeCabeceras(document.getElementById('ej2').value)">¡Escribe!</button>
+<button onclick="document.getElementById('sol2').innerHTML = ''">Oculta la solución</button>
+<p id="sol2"></p>
+
+<p>EJERCICIO 3: Factorial de un número</p>
+
+<input type="text" id="ej3" placeholder="Escribe un número." />
+<button onclick="document.getElementById('sol3').innerHTML = miFactorial(document.getElementById('ej3').value)">¡Factoriza!</button>
+<button onclick="document.getElementById('sol3').innerHTML = ''">Oculta la solución</button>
+<p id="sol3"></p>
+
+<p>EJERCICIO 4: Dada una cadena, ¿tiene solo mayúsculas, solo minúsculas o ambas?</p>
+
+<input type="text" id="ej4" placeholder="Escribe un número." />
+<button onclick="document.getElementById('sol4').innerHTML = mayusculasMinusculas(document.getElementById('ej4').value)">¡Dime qué tengo!</button>
+<button onclick="document.getElementById('sol4').innerHTML = ''">Oculta la solución</button>
+<p id="sol4"></p>
+
+<p>EJERCICIO 5: Generar un array con las palabras de una cadena introducida por el usuario. Mostrar número de palabras, primera y última, las palabras en orden inverso, ordenadas de la A a la Z y de la Z a la A.</p>
+
+<input type="text" id="ej5" placeholder="Escribe una frase." />
+<button onclick="document.getElementById('sol5').innerHTML = infoCadena(document.getElementById('ej5').value)">¡Dame información sobre mi frase!</button>
+<button onclick="document.getElementById('sol5').innerHTML = ''">Oculta la solución</button>
+<p id="sol5"></p>
+
+<p>EJERCICIO 6: Crear array con los doce meses del año.</p>
+
+<button onclick="document.getElementById('sol6').innerHTML = meses">Mostrar meses</button>
+<button onclick="document.getElementById('sol6').innerHTML = ''">Ocultar la solución</button>
+<p id="sol6"></p>
+
+<p>EJERCICIO 7: Dado un número, devuelve una cadena diciendo si es par o impar.</p>
+
+<input type="text" id="ej7" placeholder="Escribe un número." />
+<button onclick="document.getElementById('sol7').innerHTML = parImpar(document.getElementById('ej7').value)">¿Par o impar?</button>
+<button onclick="document.getElementById('sol7').innerHTML = ''">Oculta la solución</button>
+<p id="sol7"></p>
+
+<p>EJERCICIO 8: Comprueba si el número y letra del DNI son correctos.</p>
+
+<input type="text" id="ej8num" placeholder="Introduce los 8 dígitos del DNI." />
+<input type="text" id="ej8letra" placeholder="Introduce la letra del DNI.">
+<button onclick="document.getElementById('sol8').innerHTML = dniCorrecto(document.getElementById('ej8num').value, document.getElementById('ej8letra').value)"> Comprueba</button>
+<button onclick="document.getElementById('sol8').innerHTML = ''">Oculta la solución</button>
+<p id="sol8"></p>
+
+<p> EJERCICIO 9: Comprueba si la cadena es un palíndromo.</p>
+
+<input type="text" id="ej9" placeholder="Introduce una frase o palabra." />
+<button onclick="document.getElementById('sol9').innerHTML = esPalindromo(document.getElementById('ej9').value)">Comprueba</button>
+<button onclick="document.getElementById('sol9').innerHTML = ''">Oculta la solución</button>
+<p id="sol9"></p>
+
+<p>EJERCICIO 10: Escribir un párrafo que cambie de color al pulsar botones de diferentes colores.</p>
+
+<input type="text" id="ej10" placeholder="Inserta tu texto." />
+<button onclick="document.getElementById('sol10').innerHTML = document.getElementById('ej10').value">Modifica el texto (si quieres)</button>
+<p id="sol10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum officiis laboriosam minima quibusdam, est mollitia magnam omnis expedita sapiente facere ab eaque, placeat nesciunt assumenda asperiores obcaecati consectetur officia aperiam maiores quas? Quidem libero tempore beatae aliquid dolor, rerum delectus adipisci obcaecati expedita veniam qui, assumenda eaque accusamus perspiciatis omnis, cumque. Delectus mollitia sapiente, voluptatem ea, repellat iste repellendus perspiciatis, animi explicabo velit pariatur in et praesentium amet deleniti dicta nisi? Magni rerum, dignissimos corrupti minus. Iste tempora aut, aperiam, reiciendis soluta facere, magnam deleniti molestias, quam sapiente dignissimos dolor asperiores quis veniam eius. Quam reprehenderit, saepe cum eius! Iusto.</p>
+
+<button type="button" onclick="document.getElementById('sol10').style.color='red'">rojo</button>
+<button type="button" onclick="document.getElementById('sol10').style.color='blue'">azul</button>
+<button type="button" onclick="document.getElementById('sol10').style.color='green'">verde</button>
+<button type="button" onclick="document.getElementById('sol10').style.color='yellow'">amarillo</button>
+<button type="button" onclick="document.getElementById('sol10').style.color='purple'">morado</button>
+
+
+
+<!--
+	<script src="diccionario.js"></script>
+	<script>
+	// EJERCICIO 11: el juego del ahorcado
+	// var diccionario de diccionario.js
+	
+	// índice aleatorio del array diccionario
+
+	var aleatorio = Math.floor(Math.random() * (diccionario.length - 1));
+
+	// palabra guardada bajo ese índice
+
+	var palabra = diccionario[aleatorio];
+
+	// variables que controlan cuántos intentos falló el usuario y las letras que tiene acertadas
+
+	var ahorcado = "AHORCADO";
+	var estadousuario = "";
+	var solucion ="";
+
+	// Al inicio, tenemos una palabra incógnita con guiones marcando cada carácter.
+	
+	for(i = 0; i < palabra.length; i++){
+		solucion = solucion + "_";
+	}
+
+	// array con las letras de la palabra
+	
+	var letrasquedesaparecen = palabra.split();
+
+	// Letra introducida por el usuario
+	
+	var letra = "";
+
+	// Juego: el usuario dice una letra y se comprueba si está
+
+	while(letrasquedesaparecen.length > 0){
+
+		letra = prompt("Dime una letra.", "");
+
+		// Si la letra está en la palabra y todavía no se ha dicho.
+	
+		if(letrasquedesaparecen.includes(letra.toLowerCase())){
+			alert("¡Bien! Esta letra está en la palabra. (No la vuelvas a repetir o te cuelgo.)");
+
+			// muestro las letras acertadas
+
+			for(i = 0; i < palabra.length; i++){
+				if(palabra[i] == letra){
+					solucion[i] = letra;
+				}			
+			}
+
+			// elimino esa letra del array con las letras por adivinar
+
+			while(letrasquedesaparecen.includes(letra)){
+				letrasquedesaparecen.splice(letrasquedesaparecen.indexOf(letra), 1);
+		}
+
+		alert("Esto es lo que tienes: " + solucion);
+	}
+	else{ // si no está, se pone un palito		
+		alert("¡Cuidado! Estás..." + estadousuario + ahorcado[estadousuario.length]);		
+	}
+
+	// Si se acaba de dibujar el ahorcado, el usuario pierde.
+
+	if(estadousuario.length == ahorcado.length){
+		alert("¡Fin del juego! ¡¡Has perdido!! JA-JA");
+	}
+
+}
+	
+	</script>
+
+-->
+</body>
+</html>
