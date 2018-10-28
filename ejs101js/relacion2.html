@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Lista de ejercicios 2</title>
+	<script src="relacion2.js"></script>
+</head>
+<body>
+
+	<h1>Lista de ejercicios 2</h1>
+
+	<h2>JavaScript: objetos nativos</h2>
+
+
+	<h3>EJERCICIO 1</h3>
+	<p>Calcular el tiempo restante en milisegundos entre la fecha actual y las 12 de la noche del 31 de Diciembre del mismo año. (Hay que utilizar el objeto Date.)</p>
+
+	<button type="button" onclick="document.getElementById('sol1').innerHTML = milisgFinAnyo()" >Dale</button>
+
+	<p id="sol1"></p>
+
+
+	<h3>EJERCICIO 2</h3>
+	<p>Calcular el área de un círculo tras solicitar el radio desde un cuadro de diálogo. (Objeto Math)</p>
+
+	<input type="text" id="ej2" placeholder="Radio del círculo" />
+	<button type="button" onclick="document.getElementById('sol2').innerHTML = 'El área del círculo es: ' + areaCirculo(document.getElementById('ej2').value)">Dale</button>
+
+	<p id="sol2"></p>
+
+
+	<h3>EJERCICIO 3</h3>
+	<p>Mostrar el valor de la constante Pi formateado a 4 decimales. (Objeto Number)</p>
+
+	<button type="button" onclick="document.getElementById('sol3').innerHTML = formateaPi4Dec()">Dale</button>
+
+	<p id="sol3"></p>
+
+
+	<h3>EJERCICIO 4</h3>
+	<p>Solicitar una cadena de texto desde teclado, presentar el número de caracteres que contiene y presentar la propia cadena en cursiva y en tachado. (Objeto string)</p>
+
+	<input type="text" id="ej4" placeholder="Escribe algo." />
+
+	<button type="button" onclick="document.getElementById('sol4').innerHTML = infoCadena(document.getElementById('ej4').value)">Información sobre mi cadena</button>
+
+	<p id="sol4"></p>
+
+
+	<h3>EJERCICIO 5</h3>
+	<p>Crear una página que presente los elementos de un array numérico (inicialmente vacío) y botones con las opciones siguientes: insertar valor al final del array, insertar al principio del array, borrar primer elemento, borrar último elemento, ordenar ascendentemente, ordenar descendentemente. Los datos a insertar en el array serán elementos aleatorios (random) de entre 1 y 1000.</p>
+
+	<button type="button" onclick="document.getElementById('sol5').innerHTML = insertarFin()">Insertar valor al final del array.</button>
+	<button type="button" onclick="document.getElementById('sol5').innerHTML = insertarInicio()">Insertar valor al principio del array.</button>
+	<button type="button" onclick="document.getElementById('sol5').innerHTML = borrarInicio()">Borrar el primer elemento.</button>
+	<button type="button" onclick="document.getElementById('sol5').innerHTML = borrarFin()">Borrar el último elemento.</button>
+	<button type="button" onclick="document.getElementById('sol5').innerHTML = ordenaAsc()">Ordenar de forma ascendente.</button>
+	<button type="button" onclick="document.getElementById('sol5').innerHTML = ordenaDesc()">Ordenar de forma descendente.</button>
+
+	<p id="sol5"></p>
+
+
+	<h2>JavaScript: Funciones</h2>
+
+	<h3>EJERCICIO 6</h3>
+	<p>Función booleana que recibe un número entero positivo y determina si es primo.</p>
+
+	<input type="text" id="ej6" placeholder="Introduce un número entero positivo." />
+
+	<button type="button" onclick="document.getElementById('sol6').innerHTML = primoONo(document.getElementById('ej6').value)" >¿Es primo?</button>
+
+	<p id="sol6"></p>
+
+
+	<h3>EJERCICIO 7</h3>
+	<p>Función numérica que recibe dos números enteros y devuelve la resta del mayor menos el menor.</p>
+
+	<input type="text" id="ej7a" placeholder="Introduce un número entero." />
+	<input type="text" id="ej7b" placeholder="Introduce un número entero." />
+	<button type="button" onclick="document.getElementById('sol7').innerHTML = restaPositiva( document.getElementById('ej7a').value, document.getElementById('ej7b').value)">Resta</button>
+
+	<p id="sol7"></p>
+
+</body>
+</html>
