@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Juego: adivina el número</title>	
+	<script src="adivinarnumero.js"></script>
+</head>
+<body>
+	<h1>¡ADIVINA EL NÚMERO!</h1>
+	<h2>Instrucciones</h2>
+	
+	<p>El objetivo del juego es adivinar un número entero aleatorio comprendido entre 1 y 100.</p>
+
+	<p>En todo momento el usuario conocerá los límites entre los que se encuentra el número: Supongamos que el número a adivinar es el 53. Si el usuario, al primer intento, indica el número 50, deberá indicarse que ya no está comprendido entre 1 y 100, sino entre 51 y 100.</p>
+
+	<ol>
+		<li>Escribe un número entre 1 y 100 en el recuadro.</li>
+		<li>Dale al botón para comprobar si acertaste.</li>
+		<li>Escribe un número en el intervalo indicado.</li>
+		<li>Dale al botón para comprobar tu número.</li>
+		<li>Repite los pasos 3 y 4 hasta encontrar el número secreto.</li>
+	</ol>
+
+ 
+	<h2>¡Juega!</h2>
+
+	<button type="button" id="botoninicio" onclick="iniciaJuego()">Inicia el juego</button><br/><br/>
+
+	<input type="text" id="numerodelusuario" placeholder="número" /><br/><br/>
+
+	<button type="button" id="botoncomprueba" onclick="compruebaNum()">Comprueba tu número</button>
+
+	<p id="estado"></p>
+	
+</body>
+</html>
