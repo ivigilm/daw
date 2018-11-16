@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Palabra oculta</title>
+	<script src="diccionario.js"></script>	
+</head>
+<body>
+
+	<form action="" method="post">
+		<label>Letras: <br/>
+			<input type="text" id="desordenada" autofocus />
+		</label><br/>
+		<label>Palabra:<br/>
+			<input type="text" id="solucion" placeholder="adivina"  />
+		</label><br/><br/>
+		<input type="button" id="comprueba" value="Comprobar" onclick="comprobarAcierto()">
+		<input type="button" value="Nueva palabra" onclick="iniciaJuego()" />
+		<input type="button" value="Ver solución" onclick="verSolucion()" />
+		<input type="button" value="Finalizar juego" onclick="finJuego()" />
+	</form>
+	<p>Porcentaje de aciertos: </p>
+	
+	<script src="palabraoculta.js"></script>
+</body>
+</html>

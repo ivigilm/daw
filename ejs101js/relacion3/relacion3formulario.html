@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario validado</title>
+	<style>
+		input+span {
+			color: red;
+		}
+	</style>
+</head>
+<body>
+
+<script src="relacion3formulario.js" ></script>
+
+<form action="" method="post" name="formularioregistro">
+	<label><p>Nombre de usuario:</p>
+		<input type="text" id="nombre" onfocusout="nombreUsuario()"  onchange="terminos()" autofocus />
+		<span id="errornombre"></span>
+	</label><br/>
+	<label><p>Correo electrónico:</p>
+		<input type="text" id="email" onfocusout="correo()" onchange="terminos()" />
+		<span id="erroremail"></span>
+	</label><br/>
+	<label><p>Contraseña:</p>
+		<input type="text" id="pass1" onfocusout="contrasenia1()" onchange="terminos()" />
+		<span id="errorpass1"></span>
+	</label><br/>
+	<label><p>Repite la contraseña:</p>
+		<input type="text" id="pass2" onfocusout="contrasenia2()" onchange="terminos()" />
+		<span id="errorpass2"></span>
+	</label><br/>
+	<p><label id="operacion" for="captcha">Resuelve la siguiente operación: </label></p>
+		<input type="text" id="captcha" placeholder="resultado" onfocusout="sumatorio()" onchange="terminos()" />
+		<span id="errorcaptcha"></span>
+	<br/><br/>
+	<label>
+		<input type="checkbox" id="condicion" onclick="terminos()" />Acepto las condiciones.
+	</label><br/><br/>
+		<input type="submit" id="crear" value="Crear cuenta" disabled="true" onclick="antesDeEnviar()" />
+</form>
+
+</body>
+</html>
