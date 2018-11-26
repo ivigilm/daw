@@ -1,36 +1,37 @@
-var h = 0, m = 0, s = 0;
+var m = 0, s = 0, d = 0;
 var intervalo;
 
 function play(){
-	intervalo = setInterval(enMarcha, 1000);
+	intervalo = setInterval(enMarcha, 10);	
 }
 
 function enMarcha(){
-	s++;
+	d++;
 	
-	if(s == 60){
+	if(d == 100){
+		d = 0;
+		s++;
+
+		if(s == 60){
 		s = 0;
 		m++;
-
-		if(m == 60){
-			m = 0;
-			h++;
 		}
 	}
+	
 
-	document.getElementById("crono").innerHTML = 
-	( h ? (h < 10 ? "0" + h : h) : "00" ) + ":" + 
+	document.getElementById("crono").innerHTML =  
 	(m ? (m < 10 ? "0" + m : m) : "00") + ":" + 
-	(s ? (s < 10 ? "0" + s : s) : "00");
+	(s ? (s < 10 ? "0" + s : s) : "00") + ".<span>" + 
+	( d ? (d < 10 ? "0" + d + "</span>" : d + "</span>") : "00</span>" );
 }
 
 function reiniciar(){
-	document.getElementById("crono").innerHTML = "00:00:00";
-	h = 0;
+	document.getElementById("crono").innerHTML = "00:00<span>.00</span>";
 	m = 0;
 	s = 0;
+	d = 0;
 }
 
-function parar(){
+function pause(){
 	clearInterval(intervalo);
 }

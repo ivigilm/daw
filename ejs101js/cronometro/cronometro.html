@@ -3,18 +3,24 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Cronómetro</title>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" />
+	<link href="https://fonts.googleapis.com/css?family=Iceland" rel="stylesheet" />
+	<link rel="stylesheet" href="cronometro.css" />
 </head>
 <body>
+<div>
+<p id="crono">00:00<span>.00</span></p>
 
-<p id="crono">00:00:00</p>
+<button type="button" onclick="play()"><span class="fas fa-play"></span></button>
+<button type="button" onclick="pause()"><span class="fas fa-pause"></span></button>
+<button type="button" onclick="reiniciar()"><span class="fas fa-stop"></span></button>
 
-<button type="button" onclick="play()">Iniciar cronómetro</button>
-<button type="button" onclick="parar()">Pause</button>
-<button type="button" onclick="reiniciar()">Reiniciar (poner a cero)</button>
+<!-- Opciones extra: 
+	· guardar últimas/mejores marcas
+	· vueltas a la pista (tiempo cada vuelta)
+	 -->
 
-<!-- Opciones extra: guardar últimas/mejores marcas -->
-	
+</div>	
 <script src="cronometro.js"></script>
-
 </body>
 </html>

@@ -1,0 +1,30 @@
+body {
+	background-color: #6FDFD4;
+}
+
+body div {
+	margin: auto;
+	margin-top: 300px;
+	text-align: center;
+	width: 200px;
+}
+
+button {
+	background-color: white;
+	border: none;
+	border-radius: 10px;
+	color: #414141;
+	padding: 10px;
+}
+
+#crono {
+	color: #4B4B4B;
+	font-family: 'Iceland', cursive;
+	font-size: 60px;
+	margin-bottom: 20px;
+}
+
+#crono span {
+	color: #555555;
+	font-size: 30px;
+}
