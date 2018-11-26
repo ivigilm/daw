@@ -4,6 +4,18 @@
 	<meta charset="UTF-8">
 	<title>Juego: adivina el número</title>	
 	<script src="adivinarnumero.js"></script>
+	<style>
+		body {
+			text-align: justify;
+			margin: auto;
+			width: 400px;
+		}
+
+		ol+h2, button, input, #estado {
+			margin: auto;
+			text-align: center;
+		}
+	</style>
 </head>
 <body>
 	<h1>¡ADIVINA EL NÚMERO!</h1>
@@ -24,9 +36,10 @@
  
 	<h2>¡Juega!</h2>
 
-	<button type="button" id="botoninicio" onclick="iniciaJuego()">Inicia el juego</button><br/><br/>
-
-	<input type="text" id="numerodelusuario" placeholder="número" /><br/><br/>
+	<button type="button" id="botoninicio" onclick="iniciaJuego()">Inicia el juego</button>
+	
+	<br/>
+	<input type="text" id="numerodelusuario" placeholder="número" /><br/>
 
 	<button type="button" id="botoncomprueba" onclick="compruebaNum()">Comprueba tu número</button>
 
