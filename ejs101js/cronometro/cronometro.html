@@ -14,11 +14,22 @@
 <button type="button" onclick="play()"><span class="fas fa-play"></span></button>
 <button type="button" onclick="pause()"><span class="fas fa-pause"></span></button>
 <button type="button" onclick="reiniciar()"><span class="fas fa-stop"></span></button>
+<br/><br/>
+<button type="button" onclick="tiempo()"><span class="fas fa-stopwatch"></span></button>
+<button type="button" onclick="muestramarcas()"><span class="fas fa-flag-checkered"></span></button>
+<button type="button" onclick="muestraInfo()"><span class="fas fa-question"></span></button>
+<br/><br/><br/>
+<p id="marcas">Tiempos:<br/><br/></p>
 
-<!-- Opciones extra: 
-	· guardar últimas/mejores marcas
-	· vueltas a la pista (tiempo cada vuelta)
-	 -->
+<p id="mejoresmarcas">Mejores marcas:<br/><br/></p>
+
+<ul id="info"><br/>
+	<li class="fas fa-play fa-xs">&nbsp; pone en marcha el crono</li><br/>
+	<li class="fas fa-pause fa-xs"> &nbsp; detiene el crono</li><br/>
+	<li class="fas fa-stop fa-xs"> &nbsp; reinicia el crono</li><br/>
+	<li class="fas fa-stopwatch fa-xs"> &nbsp; guarda el tiempo actual</li><br/>
+	<li class="fas fa-flag-checkered fa-xs"> &nbsp; muestra las mejores marcas</li><br/>
+</ul>
 
 </div>	
 <script src="cronometro.js"></script>

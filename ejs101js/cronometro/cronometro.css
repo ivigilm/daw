@@ -1,12 +1,15 @@
 body {
 	background-color: #6FDFD4;
+	color: #4B4B4B;
+	font-family: 'Iceland', cursive;
+	font-size: 20px;
 }
 
-body div {
+div {
 	margin: auto;
 	margin-top: 300px;
 	text-align: center;
-	width: 200px;
+	width: 250px;
 }
 
 button {
@@ -17,14 +20,23 @@ button {
 	padding: 10px;
 }
 
+ul {
+	font-size: 0.8em;
+}
+
 #crono {
-	color: #4B4B4B;
-	font-family: 'Iceland', cursive;
 	font-size: 60px;
 	margin-bottom: 20px;
 }
 
 #crono span {
-	color: #555555;
 	font-size: 30px;
+}
+
+#marcas, #mejoresmarcas, #info {
+	background-color: #F0F0F0;
+	border: 1px solid #868686;
+	display: none;
+	padding: 10px;
+	margin: 20px;
 }
