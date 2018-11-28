@@ -6,7 +6,6 @@ window.onload = function(){
 	document.getElementById('botoncomprueba').style.display = "none";
 }
 
-
 var aleatorio;
 var min;
 var max;
@@ -17,19 +16,17 @@ function iniciaJuego(){
 	max = 100;	
 
 	document.getElementById('numerodelusuario').style.display = "block";
-document.getElementById('botoncomprueba').style.display = "block";
+	document.getElementById('botoncomprueba').style.display = "block";
 	document.getElementById('botoninicio').style.display = "none";
 }
 
 function compruebaNum(){
 
-console.log("Dentro de compruebaNum al principio: aleatorio = " + aleatorio + ", min = " + min + ", max = " + max);
-
 	if(document.getElementById('numerodelusuario').value == aleatorio){
 	alert('¡Felicidades! ¡Has acertado!');
 	document.getElementById('estado').innerHTML = "";
 	document.getElementById('numerodelusuario').style.display = "none";
-document.getElementById('botoncomprueba').style.display = "none";
+	document.getElementById('botoncomprueba').style.display = "none";
 	document.getElementById('botoninicio').style.display = "block";
 	}
 	else if(document.getElementById('numerodelusuario').value > aleatorio){

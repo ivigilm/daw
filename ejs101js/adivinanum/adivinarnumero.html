@@ -3,22 +3,13 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Juego: adivina el número</title>	
+	<link rel="stylesheet" href="adivinarnumero.css" />
 	<script src="adivinarnumero.js"></script>
-	<style>
-		body {
-			text-align: justify;
-			margin: auto;
-			width: 400px;
-		}
-
-		ol+h2, button, input, #estado {
-			margin: auto;
-			text-align: center;
-		}
-	</style>
 </head>
 <body>
 	<h1>¡ADIVINA EL NÚMERO!</h1>
+
+	<div>
 	<h2>Instrucciones</h2>
 	
 	<p>El objetivo del juego es adivinar un número entero aleatorio comprendido entre 1 y 100.</p>
@@ -32,10 +23,8 @@
 		<li>Dale al botón para comprobar tu número.</li>
 		<li>Repite los pasos 3 y 4 hasta encontrar el número secreto.</li>
 	</ol>
-
- 
-	<h2>¡Juega!</h2>
-
+	</div>
+	
 	<button type="button" id="botoninicio" onclick="iniciaJuego()">Inicia el juego</button>
 	
 	<br/>

@@ -1,0 +1,36 @@
+body {
+	background-color: #616161;
+	color: #DDDDDD;
+	text-align: justify;
+	margin: auto;
+	width: 408px;
+}
+
+div {
+	border: 1px solid #DDDDDD;
+	border-radius: 20px;
+	margin: 50px 0;
+	padding: 20px;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+ol {
+	padding-bottom: 5px;
+}
+
+button, input, #estado {
+	margin: auto;
+	text-align: center;
+}
+
+button {
+	background-color: white;
+	border: none;
+	border-radius: 10px;
+	color: #414141;
+	display: block;
+	padding: 10px;
+}
