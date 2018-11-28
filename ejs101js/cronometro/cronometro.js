@@ -1,6 +1,6 @@
 var m = 0, s = 0, d = 0;
 var intervalo;
-var mejores10; // formato "mm:ss:dd"
+var mejores10 = []; // formato "mm:ss:dd"
 
 function play(){
 	intervalo = setInterval(enMarcha, 10);	
@@ -25,25 +25,28 @@ function enMarcha(){
 	( d ? (d < 10 ? "0" + d + "</span>" : d + "</span>") : "00</span>" );
 }
 
-function reiniciar(){
-	document.getElementById("crono").innerHTML = "00:00<span>.00</span>";
-	m = 0;
-	s = 0;
-	d = 0;
+function reiniciar(){	
+	m = 0, s = 0, d = 0;
+
 	// Actualizo el contenido de las cajas y las oculto
+	document.getElementById("crono").innerHTML = "00:00<span>.00</span>";
 	document.getElementById("marcas").innerHTML = "Tiempos:<br/><br/>";
 	document.getElementById("marcas").style.display = "none";
+	document.getElementById("info").style.display = "none";
+	document.getElementById("mejoresmarcas").style.display = "none";
+	document.getElementById("mejoresmarcas").innerHTML = "Mejores marcas:<br/><br/>";
+
 	mejores10.forEach(function(valor, indice){
 		document.getElementById("mejoresmarcas").innerHTML += valor + "<br/>";
-	});
-	document.getElementById("mejoresmarcas").style.display = "none";
-	document.getElementById("info").style.display = "none";
+	});	
 }
 
 function pause(){
 	clearInterval(intervalo);
 }
 
+// Muestra los tiempos que se van señalando
+// (Funcionalidad: tiempo q se tarda en dar una vuelta a la pista)
 function tiempo(){
 	document.getElementById("marcas").style.display = "block";
 	document.getElementById("marcas").innerHTML += document.getElementById("crono").innerHTML + "<br/>";	
@@ -51,9 +54,8 @@ function tiempo(){
 	guardarMarca(document.getElementById("crono").innerHTML);
 }
 
+// Guardo el tiempo si está entre los mejores 10
 function guardarMarca(marca){
-
-	// Guardo el tiempo si está entre los mejores 10
 	if(mejores10.length < 10){
 		mejores10.push(marca);
 	}else if(esMejorMarca(marca)){
@@ -67,12 +69,14 @@ function guardarMarca(marca){
 
 // Comprueba si el tiempo dado es menor que alguno de los del array
 function esMejorMarca(marca){
+	var esmejor = false;
+	// si la nueva marca es menor que alguna de las ya guardadas = true
 	mejores10.forEach(function(valor){
 		if(cronoAdeci(marca) - cronoAdeci(valor) < 0 ){
-			return true;
+			esmejor = true;
 		}
 	});
-	return false;
+	return esmejor;
 }
 
 // Transforma la cadena mm:ss.dd a décimas de segundo (int)
@@ -83,7 +87,7 @@ function cronoAdeci(crono){
 	return decimas;
 }
 
-function muestramarcas(){
+function muestraMarcas(){
 	document.getElementById("mejoresmarcas").style.display = "block";
 }
 
