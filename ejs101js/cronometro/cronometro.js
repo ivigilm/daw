@@ -59,29 +59,29 @@ function guardarMarca(marca){
 	if(mejores10.length < 10){
 		mejores10.push(marca);
 	}else if(esMejorMarca(marca)){
-		//encontrar el elemento mayor del array
-		mejores10.sort(function(a, b){
-			return a - b
-		});
 		mejores10[9] = marca;
 	}
+	mejores10.sort();
 }
 
 // Comprueba si el tiempo dado es menor que alguno de los del array
 function esMejorMarca(marca){
 	var esmejor = false;
 	// si la nueva marca es menor que alguna de las ya guardadas = true
-	mejores10.forEach(function(valor){
-		if(cronoAdeci(marca) - cronoAdeci(valor) < 0 ){
+	if(marca < mejores10[9]){
+		esmejor = true;
+	}
+/*	mejores10.forEach(function(valor){
+		if(cronoAdeci(marca) < cronoAdeci(valor)){
 			esmejor = true;
 		}
-	});
+	});*/
 	return esmejor;
 }
 
 // Transforma la cadena mm:ss.dd a décimas de segundo (int)
 function cronoAdeci(crono){
-	var decimas = (((parseInt(crono[0]) * 10) + (parseInt(crono[1]))) * 60) +
+	var decimas = (((parseInt(crono.charAt(0)) * 10) + (parseInt(crono[1]))) * 60) +
 				((parseInt(crono[3]) * 10) + (parseInt(crono[4]))) * 100 +
 				(parseInt(crono[6]) * 10 + parseInt(crono[7]));
 	return decimas;
