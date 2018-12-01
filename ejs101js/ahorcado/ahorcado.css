@@ -1,0 +1,55 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #20557F;
+	color: #D1D1D1;
+/*	COLORES CRONÓMETRO
+background-color: #6FDFD4;
+	color: #4B4B4B;*/
+}
+
+#zonadibujo, #zonatexto {
+	width: 50%;
+}
+
+h1, h2 {
+	padding: 20px;
+	text-align: center;
+}
+
+#zonadibujo {
+	float: right;	
+}
+
+canvas {
+	background-color: #D1D1D1;
+	border: 1px solid black;
+	height: 400px;
+	margin: 0 15%;
+	width: 70%;
+}
+
+#zonatexto div {
+	margin: auto;
+	width: 80%;
+}
+
+#instrucciones p {
+	text-align: justify;
+}
+
+
+#palabraoculta {	
+	font-size: 3.5em;
+	text-align: center;
+}
+
+button {
+	background-color: #D1D1D1;
+	border: none;
+	border-radius: 10px;
+	color: #20557F;
+	padding: 10px;
+}

@@ -3,35 +3,32 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Juego del ahorcado</title>
-</head>
-<body>
+	<link rel="stylesheet" href="ahorcado.css"/>
 	<script src="diccionario.js"></script>
 	<script src="ahorcado.js"></script>
+</head>
+<body>
 
 	<h1>JUEGO DEL AHORCADO</h1>
 
-	<h2>Instrucciones</h2>
-	
-	<p>El objetivo del juego es adivinar una palabra que estará representada por una serie de guiones (tantos como letras tiene la palabra). El jugador deberá ir eligiendo letras del abecedario que se colocarán en las posiciones que les corresponden en la palabra o, si no aparecen, se contabilizará un fallo hasta un máximo de 8, momento en que se da la partida por perdida.</p>
+	<div id="zonadibujo">
+		<canvas id="horca">
+			
+		</canvas>
+	</div>
 
-	<h2>¡Juguemos!</h2>
+	<div id="zonatexto">
+		<div id="instrucciones">	
+			<h2>Instrucciones</h2>
+		
+			<p>El objetivo del juego es adivinar una palabra que estará representada por una serie de guiones (tantos como letras tiene la palabra). El jugador deberá ir eligiendo letras del abecedario que se colocarán en las posiciones que les corresponden en la palabra o, si no aparecen, se contabilizará un fallo hasta un máximo de 8, momento en que se da la partida por perdida.</p>
+		</div>	
+		<div>
+			<h2>¡Juguemos!</h2>
 
-	<p id="pruebas">La palabra que hay que adivinar es: </p>
+			<p id="palabraoculta"></p><br/><br/><br/><br/><br/>
+	 	</div>
+	</div>
 
-	<p id="palabraoculta">Palabra oculta: </p>
- 
-	<p id="estado">Número de fallos: </p>
-
-<!-- 	<form>
-		<input type="button" value="Comienza una partida" onclick="inicioJuego()" />
-	</form><br/> -->
-
-	<!-- Me falta:
-		1) Botón de reinicio del juego cuando se gane o pierda:
-		funciona mal: me repite los botones y las barritas, no borra las anteriores (y no se evita que se vuelva a pulsar tecla tras perder o ganar)
-		2) dibujo del ahorcado en lugar de los fallos
-
-	 -->
-	
 </body>
 </html>
