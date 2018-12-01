@@ -71,20 +71,7 @@ function esMejorMarca(marca){
 	if(marca < mejores10[9]){
 		esmejor = true;
 	}
-/*	mejores10.forEach(function(valor){
-		if(cronoAdeci(marca) < cronoAdeci(valor)){
-			esmejor = true;
-		}
-	});*/
 	return esmejor;
-}
-
-// Transforma la cadena mm:ss.dd a décimas de segundo (int)
-function cronoAdeci(crono){
-	var decimas = (((parseInt(crono.charAt(0)) * 10) + (parseInt(crono[1]))) * 60) +
-				((parseInt(crono[3]) * 10) + (parseInt(crono[4]))) * 100 +
-				(parseInt(crono[6]) * 10 + parseInt(crono[7]));
-	return decimas;
 }
 
 function muestraMarcas(){
