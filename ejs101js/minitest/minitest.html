@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Minitest de SQL</title>
+	<link rel="stylesheet" href="minitest.css" />
+	<script src="minitest.js"></script>
+</head>
+<body>
+	<div id="contenedor">
+		<h1>Test de SQL</h1>
+		<h2>Comprueba tus conocimientos</h2>
+
+		<p>1. Selecciona las que son palabras reservadas de SQL:</p>
+		<label>
+		<input type="checkbox" name="select" value="select" /> select
+		</label><br/>
+		<label>
+		<input type="checkbox" name="from" value="from" /> from
+		</label><br/>
+		<label>
+		<input type="checkbox" name="desde" value="desde" /> desde
+		</label><br/>
+		<label>
+		<input type="checkbox" name="selecciona" value="selecciona" /> selecciona
+		</label><br/>
+
+		<p>2. "ORDER BY 1" ordena por...</p>
+		<label>
+			<input type="radio" name="ordena" value="numero" />el lugar del número 1 en cada registro
+			</label><br/>
+		<label>
+			<input type="radio" name="ordena" value="registro" /> el primer registro
+		</label><br/>
+		<label>
+			<input type="radio" name="ordena" value="campo" /> el primer campo
+		</label>
+
+		<p>3. ¿Qué significan las siglas SQL?</p>
+		<select name="siglas" id="siglas">
+			<option value="strong">Strong Question Language</option>
+			<option value="question" selected>Structured Question Language</option>
+			<option id="query" value="qry">Structured Query Language</option>
+		</select>
+
+		<p>4. ¿Te gusta SQL?</p>
+		
+		<input type="text" name="gusta" id="gusta" placeholder="sí/no" />
+		<br/><br/>
+
+		<input type="button" name="corregir" id="corregir" value="Corregir" onclick="correccion()" />
+
+		<p id="porcentaje"></p>
+	</div>
+</form>
+</body>
+</html>
