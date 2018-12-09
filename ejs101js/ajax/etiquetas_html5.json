@@ -1,0 +1,307 @@
+﻿[{
+	"etiqueta": "b",
+	"definicion": "Define texto en negrita"
+}, {
+	"etiqueta": "link",
+	"definicion": "Define la relaci\u00f3 entre un documento y un recurso externo (generalmente con hojas de estilo)"
+}, {
+	"etiqueta": "ruby",
+	"definicion": "Define una notacion de ruby"
+}, {
+	"etiqueta": "s",
+	"definicion": "Define texto que no es correcto"
+}, {
+	"etiqueta": "sub",
+	"definicion": "Define un texto que es sub\u00edndice"
+}, {
+	"etiqueta": "option",
+	"definicion": "Define una opci\u00f3n en una lista desplegable"
+}, {
+	"etiqueta": "samp",
+	"definicion": "Define un ejemplo de salida de un programa"
+}, {
+	"etiqueta": "sup",
+	"definicion": "Define un texto que es super\u00edndice"
+}, {
+	"etiqueta": "bdi",
+	"definicion": "A\u00edsla una parte del texto que puede tener un formato diferente del texto externo"
+}, {
+	"etiqueta": "section",
+	"definicion": "Define una secci\u00f3n de un documento"
+}, {
+	"etiqueta": "code",
+	"definicion": "Define un trozo de c\u00f3digo de programaci\u00f3n"
+}, {
+	"etiqueta": "footer",
+	"definicion": "Define el pie de p\u00e1gina de un documento"
+}, {
+	"etiqueta": "keygen",
+	"definicion": "Define un campo generador de claves para formularios"
+}, {
+	"etiqueta": "html",
+	"definicion": "Define la ra\u00edz del documento"
+}, {
+	"etiqueta": "label",
+	"definicion": "Define el r\u00f3tulo para un elemento input"
+}, {
+	"etiqueta": "article",
+	"definicion": "Define un art\u00edculo"
+}, {
+	"etiqueta": "menu",
+	"definicion": "Define la lista de un men\u00fa"
+}, {
+	"etiqueta": "kbd",
+	"definicion": "Define entrada del teclado"
+}, {
+	"etiqueta": "progress",
+	"definicion": "Representa el progreso de una tarea en una barra"
+}, {
+	"etiqueta": "q",
+	"definicion": "Define una cita corta"
+}, {
+	"etiqueta": "canvas",
+	"definicion": "Se usa para dibujar gr\u00e1ficos en pantalla"
+}, {
+	"etiqueta": "title",
+	"definicion": "Define un t\u00edtulo para el documento"
+}, {
+	"etiqueta": "base",
+	"definicion": "Especifica la base donde se abrir\u00e1n todas las URL del documento"
+}, {
+	"etiqueta": "input",
+	"definicion": "Define un control de entrada de texto"
+}, {
+	"etiqueta": "header",
+	"definicion": "Define la secci\u00f3n de encabezado del documento"
+}, {
+	"etiqueta": "time",
+	"definicion": "Define fecha \/ hora"
+}, {
+	"etiqueta": "em",
+	"definicion": "Define \u00e9nfasis en un texto"
+}, {
+	"etiqueta": "script",
+	"definicion": "Define un script del lado cliente"
+}, {
+	"etiqueta": "head",
+	"definicion": "Define informaci\u00f3n acerca del documento"
+}, {
+	"etiqueta": "tr",
+	"definicion": "Define una fila en una tabla"
+}, {
+	"etiqueta": "tbody",
+	"definicion": "Define el cuerpo de una tabla"
+}, {
+	"etiqueta": "output",
+	"definicion": "Define el resultado de un c\u00e1lculo"
+}, {
+	"etiqueta": "datalist",
+	"definicion": "Especifica en un input una lista predefinida de opciones"
+}, {
+	"etiqueta": "noscript",
+	"definicion": "Define un contenido alternativo para los usuarios que no soportan scripts del cliente"
+}, {
+	"etiqueta": "hr",
+	"definicion": "Define un cambio de tem\u00e1tica a partir de una l\u00ednea dibujada"
+}, {
+	"etiqueta": "legend",
+	"definicion": "Define un t\u00edtulo para los elementos fieldset, figure o details"
+}, {
+	"etiqueta": "col",
+	"definicion": "Especifica las propiedades de la columna para cada columna del elemento colgroup"
+}, {
+	"etiqueta": "small",
+	"definicion": "Define texto peque\u00f1o"
+}, {
+	"etiqueta": "form",
+	"definicion": "Define un formulario html"
+}, {
+	"etiqueta": "li",
+	"definicion": "Define un \u00edtem de una lista"
+}, {
+	"etiqueta": "dfn",
+	"definicion": "Define el t\u00e9rmino de una definici\u00f3n"
+}, {
+	"etiqueta": "iframe",
+	"definicion": "Define un frame en l\u00ednea"
+}, {
+	"etiqueta": "rp",
+	"definicion": "Define que debe mostrar en navegadores que no soportan scripts de ruby"
+}, {
+	"etiqueta": "textarea",
+	"definicion": "Define un control de entrada de m\u00faltiples l\u00edneas"
+}, {
+	"etiqueta": "meter",
+	"definicion": "Define una medida escalar en un rango conocido"
+}, {
+	"etiqueta": "abbr",
+	"definicion": "Define una abreviaci\u00f3n"
+}, {
+	"etiqueta": "img",
+	"definicion": "Define una imagen"
+}, {
+	"etiqueta": "embed",
+	"definicion": "Define el contenedor de una aplicaci\u00f3n externa (no html)"
+}, {
+	"etiqueta": "dl",
+	"definicion": "Define una lista de definici\u00f3n"
+}, {
+	"etiqueta": "pre",
+	"definicion": "Define texto pre-formateado"
+}, {
+	"etiqueta": "colgroup",
+	"definicion": "Especifica un grupo de una o mas columnas de una tabla"
+}, {
+	"etiqueta": "ins",
+	"definicion": "Define texto que ha sido insertado en un documento"
+}, {
+	"etiqueta": "i",
+	"definicion": "Define una parte del texto de modo alternativo"
+}, {
+	"etiqueta": "dt",
+	"definicion": "Define un t\u00e9rmino (un \u00edtem) en una lista de definici\u00f3n"
+}, {
+	"etiqueta": "p",
+	"definicion": "Define un p\u00e1rrafo"
+}, {
+	"etiqueta": "command",
+	"definicion": "Define un bot\u00f3n command al que un usuario puede invocar"
+}, {
+	"etiqueta": "blockquote",
+	"definicion": "Define una secci\u00f3n que tiene otra fuente"
+}, {
+	"etiqueta": "tfoot",
+	"definicion": "Agrupa los footer contenidos en una tabla"
+}, {
+	"etiqueta": "!DOCTYPE",
+	"definicion": "Define el tipo de documento"
+}, {
+	"etiqueta": "optgroup",
+	"definicion": "Define un grupo de opciones relacionadas en una lista desplegable"
+}, {
+	"etiqueta": "span",
+	"definicion": "Define una peque\u00f1a secci\u00f3n de un documento"
+}, {
+	"etiqueta": "rt",
+	"definicion": "Define una pronunciaci\u00f3n de caracteres"
+}, {
+	"etiqueta": "thead",
+	"definicion": "Agrupa los encabezados de una tabla"
+}, {
+	"etiqueta": "mark",
+	"definicion": "Define texto resaltado o marcado"
+}, {
+	"etiqueta": "wbr",
+	"definicion": "Define un posible salto de l\u00ednea"
+}, {
+	"etiqueta": "ol",
+	"definicion": "Define una lista ordenada"
+}, {
+	"etiqueta": "button",
+	"definicion": "Define un bot\u00f3n"
+}, {
+	"etiqueta": "th",
+	"definicion": "Define una celda de encabezado en una tabla"
+}, {
+	"etiqueta": "h1 a h6",
+	"definicion": "Define encabezados"
+}, {
+	"etiqueta": "div",
+	"definicion": "Define una secci\u00f3n en un documento"
+}, {
+	"etiqueta": "details",
+	"definicion": "Define detalles adicionales que el usuario puede ver o esconder"
+}, {
+	"etiqueta": "del",
+	"definicion": "Define un texto que ha sido definido en un document"
+}, {
+	"etiqueta": "body",
+	"definicion": "Define el cuerpo del documento"
+}, {
+	"etiqueta": "map",
+	"definicion": "Define un mapa de imagen del cliente"
+}, {
+	"etiqueta": "select",
+	"definicion": "Define un drop-down list"
+}, {
+	"etiqueta": "figure",
+	"definicion": "Especifica auto-contenido"
+}, {
+	"etiqueta": "cite",
+	"definicion": "Define el t\u00edtulo de un trabajo"
+}, {
+	"etiqueta": "source",
+	"definicion": "Define los recursos para elementos multimedia"
+}, {
+	"etiqueta": "br",
+	"definicion": "Define un salto de l\u00ednea"
+}, {
+	"etiqueta": "bdo",
+	"definicion": "Sobreescribe la direcci\u00f3n del texto"
+}, {
+	"etiqueta": "style",
+	"definicion": "Define un estilo para la informaci\u00f3n de un documento"
+}, {
+	"etiqueta": "meta",
+	"definicion": "Define un metadato de un documento"
+}, {
+	"etiqueta": "summary",
+	"definicion": "Define un encabezado visible para el elemento details"
+}, {
+	"etiqueta": "param",
+	"definicion": "Define un par\u00e1metro para un objeto"
+}, {
+	"etiqueta": "fieldset",
+	"definicion": "Grupo de elementos relacionados en un formulario"
+}, {
+	"etiqueta": "caption",
+	"definicion": "Define el t\u00edtulo de una tabla"
+}, {
+	"etiqueta": "a",
+	"definicion": "Define un hiperv\u00ednculo"
+}, {
+	"etiqueta": "aside",
+	"definicion": "Define el contenido lateral del contenedor de una p\u00e1gina"
+}, {
+	"etiqueta": "td",
+	"definicion": "Define una celda en una tabla"
+}, {
+	"etiqueta": "address",
+	"definicion": "Define la informaci\u00f3n de contacto del autor \/ propietario del documento"
+}, {
+	"etiqueta": "table",
+	"definicion": "Define una tabla"
+}, {
+	"etiqueta": "audio",
+	"definicion": "Define contenido de sonido"
+}, {
+	"etiqueta": "video",
+	"definicion": "Define un v\u00eddeo o pel\u00edcula"
+}, {
+	"etiqueta": "strong",
+	"definicion": "Define un texto en negrita"
+}, {
+	"etiqueta": "nav",
+	"definicion": "Define un link de navegaci\u00f3n"
+}, {
+	"etiqueta": "dd",
+	"definicion": "Define la descripci\u00f3n de un \u00edtem en una lista de definici\u00f3n"
+}, {
+	"etiqueta": "objet",
+	"definicion": "Define un objeto embebido"
+}, {
+	"etiqueta": "area",
+	"definicion": "Define un \u00e1rea dentro de un mapa de imagen"
+}, {
+	"etiqueta": "var",
+	"definicion": "Define una variable"
+}, {
+	"etiqueta": "ul",
+	"definicion": "Define una lista desordenada"
+}, {
+	"etiqueta": "track",
+	"definicion": "Define texto de la pista para elementos multimedia (v\u00eddeo y audio)"
+}, {
+	"etiqueta": "dialog",
+	"definicion": "Define una caja o ventana de di\u00e1logo"
+}]
