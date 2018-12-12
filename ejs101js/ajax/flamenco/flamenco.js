@@ -107,17 +107,3 @@ function formateaFecha(fecha){
 						mes[fechainicial.getMonth()] + " de " + fechainicial.getFullYear();
 	return fechafinal;
 }
-
-
-
-/*
-
-- pasaRaton:
-		· no comprueba si hay foto (pone foto siempre)
-		· la letra roja se queda tras sacar el ratón de la fila
-
-
-{"idespectaculo":"11","espectaculo":"Soniquetazo",
-"artista":"Joaqu\u00edn Grilo y Antonio Canales","fecha":"2017-02-25",
-"votos":"33","foto":"b92af75a9b.jpg","sinopsis":null}
-*/
