@@ -42,6 +42,7 @@ function CargaDatos(datosjson){
 		
 		// Se agregan los eventos necesarios
 		fila.onmouseover = pasaRaton;
+		fila.onmouseout = function(){this.style.color = 'black'};
 		fila.cells[4].firstChild.onclick = votaEspectaculo;
 
 		// Se agrega la fila a la tabla
@@ -57,6 +58,8 @@ function pasaRaton(){
 
 		// Para la fila sobre la que está el ratón
 		if(datosjson[i].espectaculo == this.cells[1].innerHTML){
+
+			this.style.color = 'red';
 
 			// si tiene foto, la muestro
 			if(datosjson[i].foto != null){
