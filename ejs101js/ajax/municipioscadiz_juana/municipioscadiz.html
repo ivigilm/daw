@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Municipios de Cádiz</title>
+	<script src="municipioscadiz.js"></script>
+</head>
+<body>
+
+	<h1>Provincia de Cádiz</h1>
+
+	<!-- Desplegable comarcas de la provincia de Cádiz -->
+	Comarca:
+	<select id="comarca" onchange="CargaMunicipios(this.value)" ></select>
+
+	<!-- Desplegable municipios de la comarca -->
+	Municipio:
+	<select id="municipio" onchange="PresentaDatos(this.value)"></select>
+
+	<!--  onchange="CargaMunicipios(this.value)" -->
+
+	<!-- Datos del municipio elegido -->
+	<p id="datos"></p>
+
+	
+</body>
+</html>
