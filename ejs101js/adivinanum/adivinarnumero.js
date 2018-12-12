@@ -25,6 +25,7 @@ function compruebaNum(){
 	if(document.getElementById('numerodelusuario').value == aleatorio){
 	alert('¡Felicidades! ¡Has acertado!');
 	document.getElementById('estado').innerHTML = "";
+	document.getElementById('numerodelusuario').innerHTML = "";
 	document.getElementById('numerodelusuario').style.display = "none";
 	document.getElementById('botoncomprueba').style.display = "none";
 	document.getElementById('botoninicio').style.display = "block";
