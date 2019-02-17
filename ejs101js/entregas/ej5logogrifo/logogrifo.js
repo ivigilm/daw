@@ -9,6 +9,9 @@
     Tras rellenar exitosamente una casilla, se comprueba si ganó.
 */
 
+// Creo el array donde guardaré el diccionario
+let midiccionario = [];
+
 // Desordeno el abecedario, creando pares clave-valor aleatorios
 let abecedario = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", 
 "k", "l", "m", "n", "ñ", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" ];
@@ -19,85 +22,65 @@ abecedario.unshift("");
 
 
 $(document).ready(function(){
-
-    // 1. SELECCIONO LAS PALABRAS AL AZAR
-
     // Creo el array donde guardaré las palabras elegidas
     let palabrasocultas = [];
-    let midiccionario;
-        
-    // Obtengo todas las palabras del json
-    // $.ajax({
-    //     url: 'algunaspalabras.json',
-    //     success: function(resultado){
-    //         midiccionario = resultado.slice();
 
-    //         // midiccionario = resultado; // midiccionario contiene el json
-    //         //midiccionario = Array.prototype.slice.call(resultado, 0);
-    //         // $.each(resultado, function(indice,elemento){
-    //         //     midiccionario.push(elemento);
-    //         // });
-    //     }
-    // });
-
-    // $.getJSON('algunaspalabras.json', function(resultado){
-    //     $.each(resultado, function(indice, elemento){
-    //         midiccionario.push(elemento);
-    //     });
-    // });
-    
-    // Provisional
-    midiccionario = [
-        { "palabra":"meta", "definicion":"objetivo" },
-        { "palabra":"sefardi", "definicion":"Judío oriundo de la península Ibérica." },
-        { "palabra":"segregar", "definicion":"Separar o apartar algo o a alguien de otra u otras cosas." },
-        { "palabra":"separador", "definicion":"Lo que es la mampara de oficina respecto a otras salas." },
-        { "palabra":"sepia", "definicion":"molusco" },
-        { "palabra":"sepsis", "definicion":"Intoxicación de la sangre." },
-        { "palabra":"septiembre", "definicion":"Noveno mes del calendario gregoriano." }
-    ];
-
-    // Selecciono 7 palabras del diccionario
-
-    // Encuentro una palabra para cada longitud y las guardo en un array en orden inverso
-    for(let i = 4; i <= 10; i++){
-        // Busco la primera palabra
-        let aleatorio = Math.floor((Math.random() * (midiccionario.length)));
-
-        // saco palabras aleatorias hasta que encuentro una de la longitud deseada
-        while(midiccionario[aleatorio].palabra.length != i){
-            aleatorio = Math.floor((Math.random() * (midiccionario.length)));
+    // Obtengo todas las palabras del json y las guardo en "midiccionario"
+    $.ajax({
+        url: 'algunaspalabras.json',
+        success: function(resultado){
+            midiccionario = resultado;
+            palabrasocultas = eligePalabras(midiccionario);
+            creaCasillas(palabrasocultas);
         }
-        
-        // Cuando la tengo, la guardo al principio del array
-        // (de forma que quede la de 10 caracteres al principio)
-        palabrasocultas.unshift(midiccionario[aleatorio]);
-    }
-
-    // 2. CREO LAS CASILLAS CON EL CÓDIGO DE LA LETRA (Y LA DEFINICIÓN)
-   
-    // Para cada palabra
-    for(let i = 0; i < palabrasocultas.length; i++){
-        let contenedorpalabra = "<div class='adivinanza' id='palabra" + i + "'>";
-
-        // Para cada letra de la palabra creo un input con placeholder la letra
-        for(let j = 0; j < palabrasocultas[i].palabra.length; j++){
-            contenedorpalabra += "<input type='text' class='casilla' maxlength='1' oninput='comprueba(this)' placeholder='" + 
-                                    abecedario.indexOf(palabrasocultas[i].palabra.charAt(j)) + 
-                                    "' />";            
-        }
-        // Muestro la definición de la palabra
-        contenedorpalabra += "<p>" + palabrasocultas[i].definicion + "</p>";
-        contenedorpalabra += "</div>";
-
-        // Introduzco todo en el contenedor del juego
-        $("#juego").append(contenedorpalabra);
-    }
-
+    });    
 
 });
 
-// 3. JUEGO
+// Selecciona 7 palabras del diccionario (de 4 a 10 caracteres, una de cada) al azar
+function eligePalabras(diccionario){
+
+    let palabras = [];
+
+    // Encuentro una palabra para cada longitud y las guardo en un array en orden inverso
+    for(let i = 4; i <= 10; i++){
+        let aleatorio = Math.floor(Math.random() * diccionario.length);
+
+        // Saco palabras aleatorias hasta que encuentro una de la longitud deseada
+        while(diccionario[aleatorio].palabra.length != i){
+            aleatorio = Math.floor(Math.random() * midiccionario.length);
+        }
+
+        // Cuando la tengo, la guardo al principio del array
+        // (de forma que quede la de 10 caracteres al principio)
+        palabras.unshift(diccionario[aleatorio]);
+    }
+
+    return palabras;
+}
+
+// Recibe un array de palabras y crea un contenedor para cada una 
+// con inputs para las letras
+function creaCasillas (palabras){
+    // Para cada palabra
+    for(let i = 0; i < palabras.length; i++){
+        let contenedorpalabra = "<div class='adivinanza' id='palabra" + i + "'>";
+
+        // Para cada letra de la palabra creo un input (placeholder: id de letra)
+        for(let j = 0; j < palabras[i].palabra.length; j++){
+            contenedorpalabra += "<input type='text' class='casilla' maxlength='1' oninput='comprueba(this)' placeholder='" + 
+                                    abecedario.indexOf(palabras[i].palabra.charAt(j)) + 
+                                    "' />";
+        }
+
+        // Muestro la definición de la palabra
+        contenedorpalabra += "<p>" + palabras[i].definicion + "</p>";
+        contenedorpalabra += "</div>";
+        
+        // Introduce todo en el contenedor del juego
+        $("#juego").append(contenedorpalabra);
+    }
+}
 
 // Cada vez que cambia el contenido de un input, se comprueba su validez
 function comprueba(esteinput){
@@ -108,48 +91,88 @@ function comprueba(esteinput){
     let posicionanterior;
     let posicionfinal = miscasillas.indexOf(miscasillas[miscasillas.length - 1]);
 
-    if(posicionactual === 0){
-        posicionanterior = posicionfinal;
-    }else{
-        posicionanterior = posicionactual - 1;
-    }
+    posicionanterior = anteriorCasilla(posicionactual);
 
-    // Si es correcta, relleno todas las casillas de esa letra
+    // Si es correcta
     if(esteinput.value === abecedario[esteinput.getAttribute('placeholder')]){
-
         let i;
 
-        for(let i = 0; i < miscasillas.length; i++){
-            if(miscasillas[i].getAttribute('placeholder') == esteinput.getAttribute('placeholder')){
+        esteinput.disabled = true;
+
+        // relleno las casillas correspondientes con esa letra
+        for(i = 0; i < miscasillas.length; i++){
+            if(miscasillas[i].getAttribute('placeholder') === esteinput.getAttribute('placeholder')){
                 miscasillas[i].value = esteinput.value;
                 miscasillas[i].style.backgroundColor = '#6ad361'; // verde
+                miscasillas[i].disabled = true;
             }
         }
 
-
-        // FALLA:
-            // solo salta una posición al colocar la letra, cuando llega a una q ya está verde se queda ahí
-            // felicitar cuando se gane (solo haya casillas verdes)
-
-        //Y muevo el cursor a la siguiente casilla q no sea verde
-        do{
-            if(posicionactual === posicionfinal){
-                i = 0;
-            }else{
-                i = posicionactual + 1;
-            }
-        }while(miscasillas[i].style.backgroundColor === '#6ad361' && i != posicionanterior);
-             
+        //Y muevo el cursor a la siguiente casilla
+        i = siguienteCasilla(posicionactual);
+        // Hasta encontrar una que no sea verde o dar la vuelta completa al acertijo
+        while(miscasillas[i].disabled === true && i != posicionanterior){
+            i++;
+        }
+            
         // Cuando encuentro una casilla sin acertar le pongo el foco
-        if(miscasillas[i].style.backgroundColor != '#6ad361'){
+        if(!miscasillas[i].disabled){
             miscasillas[i].focus();
-        }else{  // si no la encuentro, es q está solucionado el acertijo
-            alert("felicidades");
+        }
+
+
+        // FALLA
+
+        // Comprueba si se ha resuelto el juego
+        if(compruebaFin()){
+            alert('Felicidades');
         }
 
     }
-    else{
-        esteinput.style.backgroundColor = '#fa4f5c';
+    else if(esteinput.value == ""){
+        esteinput.style.backgroundColor = 'white';
+    }else{
+        esteinput.style.backgroundColor = '#fa4f5c'; // rojo
     }
 
+}
+
+// Recibe la posición de la casilla actual y devuelve la posición de la anterior
+function anteriorCasilla(casillaactual){
+    let casillaanterior;
+
+    if(casillaactual === 0){
+        casillaanterior = $('input').length - 1;
+    }else{
+        casillaanterior = casillaactual - 1;
+    }
+
+    return casillaanterior;
+}
+
+// Recibe la posición de la casilla actual y devuelve la posición de la siguiente casilla
+function siguienteCasilla(casillaactual){
+    let casillasiguiente;
+
+    if(casillaactual === $('input').length - 1){
+        casillasiguiente = 0;
+    }else{
+        casillasiguiente = casillaactual + 1;
+    }
+    
+    return casillasiguiente;
+}
+
+// Comprueba si el acertijo ha sido resuelto y devuelve true/false
+function compruebaFin(){
+    let todaslascasillas = $('input');
+    let fin = true;
+    for(i = 0; i < todaslascasillas.length; i++){
+        if(!todaslascasillas[i].disabled){
+            fin = false;
+        }        
+    }
+    return fin;
+    // todaslascasillas[i].value != abecedario[todaslascasillas[i].getAttribute('placeholder')]
+    // !todaslascasillas[i].disabled
 }
