@@ -6,15 +6,36 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Logogrifo</title>
     <style>
+        .contenedor {
+            margin: auto;
+            width: 80%;
+        }
+        #juego {
+            margin: auto;
+            width: 50%;
+        }
         .casilla {
-            height: 15px;
-            width: 15px;
+            font-size: 2em;
+            height: 50px;
+            text-align: center;
+            width: 50px;
+        }
+        .casilla[placeholder] {
+            color: grey;
         }
         .adivinanza {
-            background-color: rgb(199, 199, 199);
-            border-bottom: 5px solid #db9ff9;
             height: 100px;
-            width: 350px;
+            margin-bottom: 20px;
+            width: 700px;
+        }
+        h1 {
+            color: grey;
+            font-size: 5em;
+            font-variant: small-caps;
+        }
+        p{
+            color: rgb(105, 104, 104);
+            font-size: 1.2em;
         }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -23,9 +44,9 @@
     <script src="logogrifo.js"></script>
 </head>
 <body>
-    <div class="container">
-        <h1>Logogrifo de Isa</h1>
+    <div class="contenedor">
         <div id="juego">
+                <h1>Logogrifo</h1>
             <!-- Aquí van 7 contenedores con las palabras en casillas y
                  la definición:
                 <div id="palabrax">
