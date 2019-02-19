@@ -88,10 +88,8 @@ function comprueba(esteinput){
     let colcasillas = $('input'); // colección de objetos
     let miscasillas = Array.prototype.slice.call(colcasillas, 0); // array
     let posicionactual = miscasillas.indexOf(esteinput);
-    let posicionanterior;
-    let posicionfinal = miscasillas.indexOf(miscasillas[miscasillas.length - 1]);
-
-    posicionanterior = anteriorCasilla(posicionactual);
+    let posicionanterior = anteriorCasilla(posicionactual);
+    let posicionfinal = miscasillas.length - 1;
 
     // Si es correcta
     if(esteinput.value === abecedario[esteinput.getAttribute('placeholder')]){
@@ -108,20 +106,18 @@ function comprueba(esteinput){
             }
         }
 
-        //Y muevo el cursor a la siguiente casilla
         i = siguienteCasilla(posicionactual);
+
+        //Y muevo el cursor a la siguiente casilla
         // Hasta encontrar una que no sea verde o dar la vuelta completa al acertijo
         while(miscasillas[i].disabled === true && i != posicionanterior){
-            i++;
+            i = siguienteCasilla(i);
         }
-            
+
         // Cuando encuentro una casilla sin acertar le pongo el foco
         if(!miscasillas[i].disabled){
             miscasillas[i].focus();
         }
-
-
-        // FALLA
 
         // Comprueba si se ha resuelto el juego
         if(compruebaFin()){
@@ -140,9 +136,10 @@ function comprueba(esteinput){
 // Recibe la posición de la casilla actual y devuelve la posición de la anterior
 function anteriorCasilla(casillaactual){
     let casillaanterior;
+    let posicionfinal = Array.prototype.slice.call($('input'), 0).length - 1;
 
     if(casillaactual === 0){
-        casillaanterior = $('input').length - 1;
+        casillaanterior = posicionfinal;
     }else{
         casillaanterior = casillaactual - 1;
     }
@@ -153,8 +150,9 @@ function anteriorCasilla(casillaactual){
 // Recibe la posición de la casilla actual y devuelve la posición de la siguiente casilla
 function siguienteCasilla(casillaactual){
     let casillasiguiente;
+    let posicionfinal = Array.prototype.slice.call($('input'), 0).length - 1;
 
-    if(casillaactual === $('input').length - 1){
+    if(casillaactual === posicionfinal){
         casillasiguiente = 0;
     }else{
         casillasiguiente = casillaactual + 1;
@@ -167,12 +165,10 @@ function siguienteCasilla(casillaactual){
 function compruebaFin(){
     let todaslascasillas = $('input');
     let fin = true;
-    for(i = 0; i < todaslascasillas.length; i++){
-        if(!todaslascasillas[i].disabled){
+    for(let i = 0; i < todaslascasillas.length; i++){
+        if(todaslascasillas[i].disabled === false){
             fin = false;
         }        
     }
     return fin;
-    // todaslascasillas[i].value != abecedario[todaslascasillas[i].getAttribute('placeholder')]
-    // !todaslascasillas[i].disabled
 }
