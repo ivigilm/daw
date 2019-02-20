@@ -26,5 +26,89 @@
     {
         "palabra":"septiembre",
         "definicion":"Noveno mes del calendario gregoriano."
+    },
+    {
+        "palabra":"topo",
+        "definicion":"Mamífero insectívoro de ojos diminutos que vive bajo tierra."
+    },
+    {
+        "palabra":"abril",
+        "definicion":"Cuarto mes del calendario gregoriano."
+    },
+    {
+        "palabra":"bailar",
+        "definicion":"Realizar movimientos acompasados con el cuerpo."
+    },
+    {
+        "palabra":"ballena",
+        "definicion":"Cetáceo que llega a medir hasta 30 m."
+    },
+    {
+        "palabra":"ejecutar",
+        "definicion":"Ajusticiar."
+    },
+    {
+        "palabra":"programar",
+        "definicion":"Elaborar programas para su empleo en computadoras."
+    },
+    {
+        "palabra":"habichuela",
+        "definicion":"Judía"
+    },
+    {
+        "palabra":"duda",
+        "definicion":"Suspensión o indeterminación del ánimo entre dos juicios o dos decisiones."
+    },
+    {
+        "palabra":"zarza",
+        "definicion":"Arbusto rosáceo de frutos comestibles."
+    },
+    {
+        "palabra":"patria",
+        "definicion":"Tierra natal a la que se siente ligado el ser humano por vínculos jurídicos, históricos y afectivos."
+    },
+    {
+        "palabra":"bañista",
+        "definicion":"Persona que se mete en el mar."
+    },
+    {
+        "palabra":"nebulosa",
+        "definicion":"Materia cósmica luminosa, compuesta de polvo y gas."
+    },
+    {
+        "palabra":"bicicleta",
+        "definicion":"Vehículo de dos ruedas sin motor."
+    },
+    {
+        "palabra":"felizmente",
+        "definicion":"Con felicidad."
+    },
+    {
+        "palabra":"edad",
+        "definicion":"Tiempo que ha vivido una persona."
+    },
+    {
+        "palabra":"apodo",
+        "definicion":"Mote."
+    },
+    {
+        "palabra":"vallar",
+        "definicion":"Cercar un terreno."
+    },
+    {
+        "palabra":"caballo",
+        "definicion":"Animal doméstico que se utiliza como montura."
+    },
+    {
+        "palabra":"maitines",
+        "definicion":"Primera de las horas canónicas, rezada antes del amanecer."
+    },
+    {
+        "palabra":"sabihondo",
+        "definicion":"Que presume de sabio sin serlo."
+    },
+    {
+        "palabra":"rastrillo",
+        "definicion":"Mercadillo con fines benéficos."
     }
 ]

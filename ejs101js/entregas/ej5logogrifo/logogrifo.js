@@ -92,7 +92,7 @@ function comprueba(esteinput){
     let posicionfinal = miscasillas.length - 1;
 
     // Si es correcta
-    if(esteinput.value === abecedario[esteinput.getAttribute('placeholder')]){
+    if(esteinput.value.toLowerCase() === abecedario[esteinput.getAttribute('placeholder')]){
         let i;
 
         esteinput.disabled = true;
@@ -100,7 +100,7 @@ function comprueba(esteinput){
         // relleno las casillas correspondientes con esa letra
         for(i = 0; i < miscasillas.length; i++){
             if(miscasillas[i].getAttribute('placeholder') === esteinput.getAttribute('placeholder')){
-                miscasillas[i].value = esteinput.value;
+                miscasillas[i].value = esteinput.value.toLowerCase();
                 miscasillas[i].style.backgroundColor = '#6ad361'; // verde
                 miscasillas[i].disabled = true;
             }
@@ -122,6 +122,7 @@ function comprueba(esteinput){
         // Comprueba si se ha resuelto el juego
         if(compruebaFin()){
             alert('Felicidades');
+            location.reload();
         }
 
     }
