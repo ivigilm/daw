@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Encuentra las parejas</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="cartas.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        #juego * {
+            display: inline;
+        }
+        /* .card {
+            margin: 5%;
+        } */
+        .front, .back {
+            padding: 1%;
+        }
+        /* #juego div[id^=card] .front {
+            display: none !important;
+        } */
+    </style>
+</head>
+<body>
+    <div id="contenedor">
+        <div id="encabezado">
+            <h1>¡Encuentra las parejas!</h1>
+            <p>Da la vuelta a las cartas de dos en dos para encontrar las parejas.</p>
+        </div>
+        <div id="partecentral">
+            <div id="juego">
+            </div>
+            <div id="numcartas">
+                <h2>¿Con cuántas cartas quieres jugar?</h2>
+                <button onclick="presentarCartas(this)">12</button>
+                <button onclick="presentarCartas(this)">16</button>
+                <button onclick="presentarCartas(this)">20</button>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
