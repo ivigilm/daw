@@ -120,7 +120,7 @@ function giraCartas(estacarta){
 
             // Compruebo si se ha ganado el juego
             if(acertadas === $(".cards").length){
-                alert("¡Felicidades!");
+                alert(`¡Felicidades!`);
                 location.reload();
             }
 
