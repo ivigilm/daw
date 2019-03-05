@@ -5,6 +5,9 @@ let contador = 1; // nº de carta q se pulsa
 let primeracarta = "";
 let posicionprimeracarta;
 let acertadas = 0;
+let tiempo = 0; // segundos q se tarda en resolver
+let intentos = 0; // nº veces q se levanta una pareja de cartas
+let intervalo;
 
 $(document).ready(function(){
 
@@ -35,13 +38,14 @@ function presentarCartas(boton){
         
         // ORIGINAL: onclick='giraCartas(this)'
         // RECOMENDADO: onclick='giraCartas(event)'
-        // micarta.addEventListener('click', giraCartas, false);
 
         $('#juego').append(micarta);
     }
     // Oculto el anverso de las cartas
     $('.front').hide();
-    // $('.front').css("display", "none");
+    
+    // Inicio el cronómetro
+    crono();
 }
 
 // Devuelve un array con las imágenes que se utilizarán en el juego
@@ -90,12 +94,13 @@ function giraCartas(estacarta){
     }else if(contador > 2){ // si se ha intentado pinchar más de dos cartas
         console.log("No se pueden girar más de dos cartas a la vez.");
     }else{ // si es la 2ª carta
-        contador++;
         let segundacarta = $(estacarta).children().eq(0).children().eq(0).attr('src');
+        contador++;
+        intentos++;
         
         // Giro la carta
-        $(estacarta).children().eq(0).show();//.css("display", "inline"); //.show();
-        $(estacarta).children().eq(1).hide(); //.css("display", "none"); //.hide();
+        $(estacarta).children().eq(0).show();
+        $(estacarta).children().eq(1).hide();
 
         // Compruebo si coincide con la anterior
         // si no coinciden
@@ -120,7 +125,9 @@ function giraCartas(estacarta){
 
             // Compruebo si se ha ganado el juego
             if(acertadas === $(".cards").length){
-                alert(`¡Felicidades!`);
+                alert(`¡Felicidades!
+                        Intentos: ${intentos}
+                        Tiempo: ${tiempo} sg`);
                 location.reload();
             }
 
@@ -128,4 +135,10 @@ function giraCartas(estacarta){
         }
 
     }
+}
+
+function crono(){
+    intervalo = setInterval(function(){
+        tiempo++;
+    }, 1000);
 }
