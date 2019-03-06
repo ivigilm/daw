@@ -46,6 +46,9 @@ function presentarCartas(boton){
     
     // Inicio el cronómetro
     crono();
+
+    // Oculto las opciones de nº cartas
+    $("#numcartas").css("display", "none");
 }
 
 // Devuelve un array con las imágenes que se utilizarán en el juego
